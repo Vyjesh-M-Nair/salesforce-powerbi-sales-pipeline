@@ -1,0 +1,801 @@
+FirstName,LastName,Company,Email,LeadSource,Status,Industry,Rating,City,Country,Lead_Created_Date__c
+David,Schmidt,Main Technik (Lead 001),david.schmidt.lead0@example.com,Trade Show,Open - Not Contacted,Transportation,Hot,Essen,Germany,2026-04-15
+David,Neumann,Alpha Solutions (Lead 002),david.neumann.lead1@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2025-09-05
+Paul,Becker,Ost Systems (Lead 003),paul.becker.lead2@example.com,LinkedIn,Open - Not Contacted,Healthcare,Warm,Nuremberg,Germany,2026-08-03
+David,Becker,Nord Logistik (Lead 004),david.becker.lead3@example.com,LinkedIn,Working - Contacted,Transportation,Cold,Bremen,Germany,2025-02-23
+Hans,Becker,Elbe Solutions (Lead 005),hans.becker.lead4@example.com,LinkedIn,Working - Contacted,Technology,Cold,Hannover,Germany,2025-07-26
+Hans,Wolf,Zenit Consulting (Lead 006),hans.wolf.lead5@example.com,Trade Show,Closed - Not Converted,Retail,Warm,Bremen,Germany,2025-09-28
+Ines,Schmidt,Helio Group (Lead 007),ines.schmidt.lead6@example.com,Partner Referral,Closed - Not Converted,Technology,Warm,Nuremberg,Germany,2025-07-15
+Hans,Muster,Atlas Group (Lead 008),hans.muster.lead7@example.com,Partner Referral,Closed - Not Converted,Healthcare,Warm,Berlin,Germany,2026-01-09
+Vera,Koch,Spree Group (Lead 009),vera.koch.lead8@example.com,Web,Working - Contacted,Healthcare,Hot,Munich,Germany,2026-09-21
+Olga,Wagner,Rhein Technik (Lead 010),olga.wagner.lead9@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Munich,Germany,2025-10-27
+Lukas,Koch,Süd Group (Lead 011),lukas.koch.lead10@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Düsseldorf,Germany,2026-06-26
+Katrin,Koch,Rhein Handel (Lead 012),katrin.koch.lead11@example.com,Email Campaign,Working - Contacted,Hospitality,Cold,Leipzig,Germany,2026-02-18
+Felix,Beispiel,Optima Group (Lead 013),felix.beispiel.lead12@example.com,Web,Open - Not Contacted,Technology,Hot,Nuremberg,Germany,2025-07-07
+Elena,Demo,Nova Solutions (Lead 014),elena.demo.lead13@example.com,Trade Show,Open - Not Contacted,Finance,Hot,Cologne,Germany,2026-03-17
+Zoe,Hoffmann,Alpha Services (Lead 015),zoe.hoffmann.lead14@example.com,Web,Closed - Not Converted,Construction,Warm,Hamburg,Germany,2025-03-26
+Lukas,Neumann,Spree Werke (Lead 016),lukas.neumann.lead15@example.com,Email Campaign,Closed - Not Converted,Hospitality,Warm,Stuttgart,Germany,2025-01-25
+Uwe,Hoffmann,Süd Solutions (Lead 017),uwe.hoffmann.lead16@example.com,Phone Inquiry,Closed - Not Converted,Technology,Warm,Nuremberg,Germany,2025-05-21
+Anna,Meyer,Alpha Consulting (Lead 018),anna.meyer.lead17@example.com,Trade Show,Open - Not Contacted,Retail,Cold,Hannover,Germany,2026-07-15
+Yara,Meyer,Ost Werke (Lead 019),yara.meyer.lead18@example.com,Web,Working - Contacted,Technology,Hot,Hamburg,Germany,2025-12-20
+Tina,Probe,Orion Werke (Lead 020),tina.probe.lead19@example.com,Email Campaign,Open - Not Contacted,Retail,Warm,Leipzig,Germany,2025-10-03
+Yara,Weber,Orion Technik (Lead 021),yara.weber.lead20@example.com,Web,Closed - Not Converted,Energy,Cold,Düsseldorf,Germany,2025-08-18
+Mara,Fischer,Aurum Services (Lead 022),mara.fischer.lead21@example.com,LinkedIn,Closed - Not Converted,Healthcare,Hot,Munich,Germany,2025-05-07
+Uwe,Modell,Terra Digital (Lead 023),uwe.modell.lead22@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Warm,Munich,Germany,2025-05-12
+Ben,Meyer,Prima Services (Lead 024),ben.meyer.lead23@example.com,Trade Show,Working - Contacted,Healthcare,Cold,Bremen,Germany,2026-08-08
+Willi,Koch,Main Technik (Lead 025),willi.koch.lead24@example.com,Web,Open - Not Contacted,Retail,Hot,Hannover,Germany,2026-10-04
+Nico,Probe,Aurum Werke (Lead 026),nico.probe.lead25@example.com,Web,Open - Not Contacted,Hospitality,Hot,Berlin,Germany,2026-09-27
+David,Fischer,Zenit Consulting (Lead 027),david.fischer.lead26@example.com,Web,Working - Contacted,Finance,Warm,Düsseldorf,Germany,2026-10-07
+Yara,Klein,Main Consulting (Lead 028),yara.klein.lead27@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2026-03-02
+Vera,Wolf,Rhein Digital (Lead 029),vera.wolf.lead28@example.com,LinkedIn,Working - Contacted,Education,Hot,Dresden,Germany,2026-08-07
+Willi,Beispiel,Atlas Systems (Lead 030),willi.beispiel.lead29@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Stuttgart,Germany,2026-04-25
+Lukas,Demo,Ost Werke (Lead 031),lukas.demo.lead30@example.com,Trade Show,Closed - Not Converted,Technology,Cold,Leipzig,Germany,2025-12-04
+David,Beispiel,Zenit Services (Lead 032),david.beispiel.lead31@example.com,LinkedIn,Closed - Not Converted,Healthcare,Warm,Nuremberg,Germany,2025-08-07
+Uwe,Meyer,Terra Consulting (Lead 033),uwe.meyer.lead32@example.com,Web,Open - Not Contacted,Retail,Cold,Bremen,Germany,2026-07-21
+Lukas,Schmidt,Orion Group (Lead 034),lukas.schmidt.lead33@example.com,Web,Working - Contacted,Technology,Cold,Munich,Germany,2026-02-07
+Zoe,Wagner,West Werke (Lead 035),zoe.wagner.lead34@example.com,Partner Referral,Closed - Not Converted,Finance,Hot,Essen,Germany,2026-01-25
+Jonas,Koch,Spree Systems (Lead 036),jonas.koch.lead35@example.com,Email Campaign,Working - Contacted,Construction,Cold,Düsseldorf,Germany,2025-12-08
+Ben,Fischer,Vita Solutions (Lead 037),ben.fischer.lead36@example.com,Partner Referral,Open - Not Contacted,Finance,Cold,Düsseldorf,Germany,2026-05-27
+Yara,Fischer,Corvus Systems (Lead 038),yara.fischer.lead37@example.com,Partner Referral,Open - Not Contacted,Technology,Hot,Hannover,Germany,2026-01-24
+Hans,Fischer,Brevo Handel (Lead 039),hans.fischer.lead38@example.com,LinkedIn,Open - Not Contacted,Manufacturing,Warm,Munich,Germany,2026-10-26
+Rita,Probe,Alpha Handel (Lead 040),rita.probe.lead39@example.com,Email Campaign,Working - Contacted,Energy,Warm,Essen,Germany,2025-05-09
+Sven,Muster,Orion Systems (Lead 041),sven.muster.lead40@example.com,Trade Show,Closed - Not Converted,Manufacturing,Cold,Nuremberg,Germany,2025-05-03
+Anna,Muster,Süd Systems (Lead 042),anna.muster.lead41@example.com,Trade Show,Working - Contacted,Transportation,Hot,Düsseldorf,Germany,2026-10-02
+Paul,Schmidt,Süd Technik (Lead 043),paul.schmidt.lead42@example.com,Email Campaign,Closed - Not Converted,Technology,Hot,Berlin,Germany,2026-06-07
+Yara,Demo,Corvus Consulting (Lead 044),yara.demo.lead43@example.com,LinkedIn,Closed - Not Converted,Education,Cold,Cologne,Germany,2025-09-17
+Felix,Muster,Zenit Werke (Lead 045),felix.muster.lead44@example.com,Partner Referral,Open - Not Contacted,Construction,Hot,Berlin,Germany,2025-09-08
+Jonas,Vorlage,Delta Services (Lead 046),jonas.vorlage.lead45@example.com,Web,Closed - Not Converted,Construction,Cold,Cologne,Germany,2025-08-21
+Tina,Weber,West Logistik (Lead 047),tina.weber.lead46@example.com,Phone Inquiry,Working - Contacted,Healthcare,Hot,Hamburg,Germany,2026-01-11
+Olga,Klein,Vita Services (Lead 048),olga.klein.lead47@example.com,Web,Closed - Not Converted,Transportation,Hot,Hamburg,Germany,2026-05-26
+Clara,Schmidt,Main Systems (Lead 049),clara.schmidt.lead48@example.com,Web,Closed - Not Converted,Education,Cold,Berlin,Germany,2026-05-06
+Sven,Demo,Linea Group (Lead 050),sven.demo.lead49@example.com,LinkedIn,Working - Contacted,Transportation,Cold,Bremen,Germany,2026-05-04
+Katrin,Wagner,Orion Technik (Lead 051),katrin.wagner.lead50@example.com,Trade Show,Working - Contacted,Manufacturing,Warm,Leipzig,Germany,2026-10-01
+Nico,Wolf,Vita Group (Lead 052),nico.wolf.lead51@example.com,Partner Referral,Open - Not Contacted,Technology,Warm,Bremen,Germany,2026-10-27
+Willi,Vorlage,Prima Werke (Lead 053),willi.vorlage.lead52@example.com,Web,Closed - Not Converted,Energy,Cold,Cologne,Germany,2026-05-05
+Tina,Muster,Atlas Logistik (Lead 054),tina.muster.lead53@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2025-11-26
+Vera,Modell,Helio Handel (Lead 055),vera.modell.lead54@example.com,Trade Show,Working - Contacted,Manufacturing,Hot,Hamburg,Germany,2026-05-05
+Willi,Becker,Rhein Systems (Lead 056),willi.becker.lead55@example.com,Trade Show,Open - Not Contacted,Education,Cold,Hamburg,Germany,2025-07-15
+Anna,Meyer,Vita Solutions (Lead 057),anna.meyer.lead56@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Hannover,Germany,2026-02-17
+Katrin,Vorlage,Linea Technik (Lead 058),katrin.vorlage.lead57@example.com,Web,Closed - Not Converted,Hospitality,Warm,Cologne,Germany,2026-07-08
+Elena,Richter,Corvus Systems (Lead 059),elena.richter.lead58@example.com,LinkedIn,Working - Contacted,Transportation,Hot,Cologne,Germany,2026-10-21
+David,Schmidt,Optima Consulting (Lead 060),david.schmidt.lead59@example.com,LinkedIn,Working - Contacted,Manufacturing,Hot,Essen,Germany,2026-05-19
+Yara,Hoffmann,Vita Werke (Lead 061),yara.hoffmann.lead60@example.com,LinkedIn,Closed - Not Converted,Retail,Hot,Munich,Germany,2025-05-07
+Ben,Probe,Helio Technik (Lead 062),ben.probe.lead61@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Cold,Berlin,Germany,2025-08-13
+Zoe,Klein,Helio Services (Lead 063),zoe.klein.lead62@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Hannover,Germany,2026-10-02
+Lukas,Probe,Vita Digital (Lead 064),lukas.probe.lead63@example.com,Web,Working - Contacted,Healthcare,Warm,Cologne,Germany,2025-05-28
+David,Wagner,Delta Solutions (Lead 065),david.wagner.lead64@example.com,Phone Inquiry,Open - Not Contacted,Healthcare,Hot,Leipzig,Germany,2026-02-14
+Felix,Demo,Beta Systems (Lead 066),felix.demo.lead65@example.com,Web,Working - Contacted,Healthcare,Cold,Dresden,Germany,2026-09-01
+Ines,Demo,Delta Handel (Lead 067),ines.demo.lead66@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Hot,Essen,Germany,2025-03-18
+Zoe,Probe,Optima Logistik (Lead 068),zoe.probe.lead67@example.com,Web,Closed - Not Converted,Finance,Cold,Berlin,Germany,2026-01-26
+Rita,Hoffmann,Main Digital (Lead 069),rita.hoffmann.lead68@example.com,Phone Inquiry,Closed - Not Converted,Technology,Warm,Berlin,Germany,2025-04-06
+Jonas,Hoffmann,Corvus Technik (Lead 070),jonas.hoffmann.lead69@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Essen,Germany,2025-08-01
+Clara,Vorlage,Aurum Services (Lead 071),clara.vorlage.lead70@example.com,LinkedIn,Closed - Not Converted,Retail,Cold,Munich,Germany,2025-04-15
+Zoe,Richter,Nova Group (Lead 072),zoe.richter.lead71@example.com,Web,Closed - Not Converted,Retail,Cold,Hannover,Germany,2025-12-13
+Lukas,Richter,Linea Consulting (Lead 073),lukas.richter.lead72@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Hamburg,Germany,2026-04-11
+Willi,Vorlage,Orion Services (Lead 074),willi.vorlage.lead73@example.com,Web,Closed - Not Converted,Technology,Hot,Cologne,Germany,2026-05-08
+Mara,Meyer,Nova Services (Lead 075),mara.meyer.lead74@example.com,LinkedIn,Working - Contacted,Manufacturing,Warm,Hamburg,Germany,2026-06-20
+Nico,Hoffmann,Nord Services (Lead 076),nico.hoffmann.lead75@example.com,Email Campaign,Working - Contacted,Healthcare,Warm,Stuttgart,Germany,2026-02-27
+Sven,Beispiel,Orion Digital (Lead 077),sven.beispiel.lead76@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Düsseldorf,Germany,2026-09-12
+Ben,Neumann,Elbe Group (Lead 078),ben.neumann.lead77@example.com,LinkedIn,Closed - Not Converted,Healthcare,Cold,Düsseldorf,Germany,2026-09-19
+Anna,Wolf,Main Consulting (Lead 079),anna.wolf.lead78@example.com,LinkedIn,Open - Not Contacted,Transportation,Hot,Munich,Germany,2026-10-20
+Paul,Muster,Aurum Consulting (Lead 080),paul.muster.lead79@example.com,Web,Closed - Not Converted,Construction,Hot,Hannover,Germany,2026-06-26
+Rita,Modell,Corvus Consulting (Lead 081),rita.modell.lead80@example.com,Partner Referral,Closed - Not Converted,Finance,Cold,Hamburg,Germany,2026-03-09
+Olga,Fischer,Rhein Handel (Lead 082),olga.fischer.lead81@example.com,Web,Closed - Not Converted,Retail,Cold,Cologne,Germany,2025-08-09
+Uwe,Vorlage,Terra Solutions (Lead 083),uwe.vorlage.lead82@example.com,LinkedIn,Closed - Not Converted,Finance,Cold,Hannover,Germany,2025-04-23
+Vera,Hoffmann,Alpha Technik (Lead 084),vera.hoffmann.lead83@example.com,Phone Inquiry,Working - Contacted,Education,Hot,Düsseldorf,Germany,2025-06-25
+Felix,Probe,Helio Consulting (Lead 085),felix.probe.lead84@example.com,Web,Working - Contacted,Finance,Warm,Bremen,Germany,2026-09-19
+Clara,Weber,Delta Solutions (Lead 086),clara.weber.lead85@example.com,Phone Inquiry,Open - Not Contacted,Manufacturing,Warm,Essen,Germany,2026-10-06
+Willi,Modell,Helio Group (Lead 087),willi.modell.lead86@example.com,Web,Closed - Not Converted,Healthcare,Cold,Stuttgart,Germany,2026-06-16
+Katrin,Klein,Zenit Werke (Lead 088),katrin.klein.lead87@example.com,Web,Working - Contacted,Technology,Warm,Munich,Germany,2025-02-10
+Ben,Koch,Prima Technik (Lead 089),ben.koch.lead88@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Cold,Nuremberg,Germany,2025-11-10
+Nico,Beispiel,Elbe Technik (Lead 090),nico.beispiel.lead89@example.com,Trade Show,Closed - Not Converted,Education,Warm,Munich,Germany,2025-03-12
+Vera,Fischer,Zenit Technik (Lead 091),vera.fischer.lead90@example.com,Phone Inquiry,Open - Not Contacted,Manufacturing,Warm,Nuremberg,Germany,2025-09-25
+Clara,Becker,Süd Handel (Lead 092),clara.becker.lead91@example.com,Web,Closed - Not Converted,Finance,Hot,Cologne,Germany,2025-04-01
+Clara,Wagner,Corvus Group (Lead 093),clara.wagner.lead92@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Stuttgart,Germany,2026-05-07
+Katrin,Meyer,Terra Consulting (Lead 094),katrin.meyer.lead93@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Leipzig,Germany,2025-01-02
+Uwe,Modell,Süd Logistik (Lead 095),uwe.modell.lead94@example.com,Partner Referral,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2025-10-16
+Felix,Probe,Aurum Digital (Lead 096),felix.probe.lead95@example.com,Trade Show,Closed - Not Converted,Transportation,Cold,Essen,Germany,2026-06-28
+Clara,Meyer,Nova Services (Lead 097),clara.meyer.lead96@example.com,Trade Show,Working - Contacted,Transportation,Warm,Bremen,Germany,2025-02-19
+David,Koch,Vita Handel (Lead 098),david.koch.lead97@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2025-10-19
+Ines,Wolf,Helio Consulting (Lead 099),ines.wolf.lead98@example.com,LinkedIn,Working - Contacted,Healthcare,Warm,Hamburg,Germany,2025-08-24
+Katrin,Vorlage,Prima Technik (Lead 100),katrin.vorlage.lead99@example.com,Email Campaign,Closed - Not Converted,Construction,Warm,Essen,Germany,2025-10-14
+Ines,Muster,Optima Consulting (Lead 101),ines.muster.lead100@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Warm,Stuttgart,Germany,2026-10-26
+Felix,Koch,Rhein Group (Lead 102),felix.koch.lead101@example.com,LinkedIn,Closed - Not Converted,Technology,Hot,Stuttgart,Germany,2026-07-01
+Clara,Fischer,Corvus Systems (Lead 103),clara.fischer.lead102@example.com,Web,Closed - Not Converted,Technology,Warm,Berlin,Germany,2025-09-07
+Rita,Hoffmann,Linea Solutions (Lead 104),rita.hoffmann.lead103@example.com,Trade Show,Closed - Not Converted,Technology,Warm,Stuttgart,Germany,2025-12-07
+Clara,Weber,Aurum Handel (Lead 105),clara.weber.lead104@example.com,Web,Working - Contacted,Manufacturing,Cold,Stuttgart,Germany,2026-07-23
+David,Fischer,Linea Technik (Lead 106),david.fischer.lead105@example.com,Partner Referral,Closed - Not Converted,Construction,Cold,Berlin,Germany,2025-11-21
+Lukas,Hoffmann,Orion Solutions (Lead 107),lukas.hoffmann.lead106@example.com,LinkedIn,Closed - Not Converted,Hospitality,Hot,Düsseldorf,Germany,2026-10-04
+Felix,Modell,Beta Digital (Lead 108),felix.modell.lead107@example.com,LinkedIn,Working - Contacted,Education,Warm,Hamburg,Germany,2026-05-23
+Felix,Becker,Spree Group (Lead 109),felix.becker.lead108@example.com,Email Campaign,Open - Not Contacted,Energy,Warm,Stuttgart,Germany,2025-04-11
+Rita,Fischer,Linea Group (Lead 110),rita.fischer.lead109@example.com,Partner Referral,Closed - Not Converted,Construction,Cold,Munich,Germany,2025-02-16
+Vera,Becker,Main Technik (Lead 111),vera.becker.lead110@example.com,LinkedIn,Closed - Not Converted,Healthcare,Hot,Dresden,Germany,2025-04-20
+Zoe,Koch,Süd Digital (Lead 112),zoe.koch.lead111@example.com,Partner Referral,Closed - Not Converted,Technology,Warm,Düsseldorf,Germany,2025-10-25
+Jonas,Wolf,West Services (Lead 113),jonas.wolf.lead112@example.com,LinkedIn,Working - Contacted,Technology,Warm,Düsseldorf,Germany,2025-09-03
+Greta,Modell,West Group (Lead 114),greta.modell.lead113@example.com,Trade Show,Open - Not Contacted,Manufacturing,Hot,Hamburg,Germany,2026-09-14
+Katrin,Beispiel,Zenit Systems (Lead 115),katrin.beispiel.lead114@example.com,Web,Working - Contacted,Technology,Warm,Dresden,Germany,2025-04-02
+Paul,Probe,Ost Consulting (Lead 116),paul.probe.lead115@example.com,Partner Referral,Working - Contacted,Transportation,Warm,Hamburg,Germany,2026-01-26
+Greta,Modell,West Services (Lead 117),greta.modell.lead116@example.com,Email Campaign,Closed - Not Converted,Education,Warm,Düsseldorf,Germany,2026-09-07
+David,Demo,Linea Werke (Lead 118),david.demo.lead117@example.com,Web,Working - Contacted,Technology,Warm,Dresden,Germany,2026-06-24
+Yara,Meyer,West Handel (Lead 119),yara.meyer.lead118@example.com,LinkedIn,Closed - Not Converted,Construction,Hot,Düsseldorf,Germany,2025-06-13
+Elena,Neumann,Main Solutions (Lead 120),elena.neumann.lead119@example.com,Phone Inquiry,Working - Contacted,Retail,Cold,Düsseldorf,Germany,2025-07-06
+Hans,Beispiel,Elbe Handel (Lead 121),hans.beispiel.lead120@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Hot,Munich,Germany,2025-08-28
+Jonas,Schmidt,Vita Group (Lead 122),jonas.schmidt.lead121@example.com,Web,Open - Not Contacted,Manufacturing,Cold,Berlin,Germany,2026-10-27
+Jonas,Wagner,Terra Handel (Lead 123),jonas.wagner.lead122@example.com,Phone Inquiry,Open - Not Contacted,Manufacturing,Cold,Düsseldorf,Germany,2026-09-07
+Paul,Probe,Optima Logistik (Lead 124),paul.probe.lead123@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2026-09-13
+Clara,Hoffmann,Rhein Group (Lead 125),clara.hoffmann.lead124@example.com,LinkedIn,Closed - Not Converted,Construction,Warm,Bremen,Germany,2025-08-05
+Paul,Probe,Corvus Technik (Lead 126),paul.probe.lead125@example.com,Trade Show,Open - Not Contacted,Manufacturing,Cold,Hamburg,Germany,2025-07-24
+Katrin,Becker,Aurum Digital (Lead 127),katrin.becker.lead126@example.com,LinkedIn,Closed - Not Converted,Retail,Hot,Hannover,Germany,2025-11-24
+Mara,Wagner,Vita Services (Lead 128),mara.wagner.lead127@example.com,LinkedIn,Working - Contacted,Finance,Cold,Dresden,Germany,2026-08-02
+Hans,Beispiel,Alpha Consulting (Lead 129),hans.beispiel.lead128@example.com,LinkedIn,Closed - Not Converted,Finance,Warm,Bremen,Germany,2025-06-09
+Hans,Wolf,Delta Systems (Lead 130),hans.wolf.lead129@example.com,LinkedIn,Open - Not Contacted,Energy,Warm,Leipzig,Germany,2026-07-17
+David,Modell,Spree Technik (Lead 131),david.modell.lead130@example.com,Email Campaign,Working - Contacted,Healthcare,Cold,Bremen,Germany,2026-07-23
+Paul,Fischer,Brevo Technik (Lead 132),paul.fischer.lead131@example.com,Web,Working - Contacted,Manufacturing,Cold,Leipzig,Germany,2025-09-27
+Vera,Schmidt,Atlas Logistik (Lead 133),vera.schmidt.lead132@example.com,Email Campaign,Working - Contacted,Transportation,Cold,Nuremberg,Germany,2026-02-26
+Yara,Koch,Aurum Werke (Lead 134),yara.koch.lead133@example.com,Web,Closed - Not Converted,Finance,Warm,Hannover,Germany,2026-02-15
+Nico,Wolf,Vita Services (Lead 135),nico.wolf.lead134@example.com,LinkedIn,Working - Contacted,Technology,Warm,Hamburg,Germany,2025-01-08
+Vera,Neumann,Helio Services (Lead 136),vera.neumann.lead135@example.com,Web,Closed - Not Converted,Healthcare,Hot,Berlin,Germany,2025-09-25
+Felix,Wagner,Vita Werke (Lead 137),felix.wagner.lead136@example.com,LinkedIn,Closed - Not Converted,Technology,Cold,Düsseldorf,Germany,2025-07-26
+Sven,Hoffmann,Spree Services (Lead 138),sven.hoffmann.lead137@example.com,LinkedIn,Closed - Not Converted,Retail,Warm,Bremen,Germany,2025-12-01
+Hans,Koch,Orion Systems (Lead 139),hans.koch.lead138@example.com,Web,Working - Contacted,Retail,Hot,Stuttgart,Germany,2026-07-11
+Clara,Fischer,Brevo Logistik (Lead 140),clara.fischer.lead139@example.com,Web,Working - Contacted,Manufacturing,Cold,Stuttgart,Germany,2025-08-23
+Vera,Wagner,Rhein Services (Lead 141),vera.wagner.lead140@example.com,Web,Open - Not Contacted,Finance,Warm,Düsseldorf,Germany,2025-03-11
+Sven,Probe,Zenit Technik (Lead 142),sven.probe.lead141@example.com,Phone Inquiry,Open - Not Contacted,Technology,Warm,Essen,Germany,2026-10-05
+Zoe,Muster,Main Systems (Lead 143),zoe.muster.lead142@example.com,Email Campaign,Closed - Not Converted,Transportation,Warm,Düsseldorf,Germany,2025-06-08
+Mara,Beispiel,Rhein Group (Lead 144),mara.beispiel.lead143@example.com,LinkedIn,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2025-03-11
+Rita,Weber,Elbe Digital (Lead 145),rita.weber.lead144@example.com,Phone Inquiry,Closed - Not Converted,Transportation,Cold,Düsseldorf,Germany,2025-10-09
+Ben,Schmidt,Alpha Werke (Lead 146),ben.schmidt.lead145@example.com,LinkedIn,Closed - Not Converted,Healthcare,Cold,Leipzig,Germany,2025-04-24
+Willi,Neumann,Spree Technik (Lead 147),willi.neumann.lead146@example.com,Partner Referral,Working - Contacted,Retail,Warm,Berlin,Germany,2026-02-23
+Greta,Schmidt,Terra Werke (Lead 148),greta.schmidt.lead147@example.com,LinkedIn,Closed - Not Converted,Technology,Cold,Düsseldorf,Germany,2025-03-10
+Jonas,Fischer,Ost Digital (Lead 149),jonas.fischer.lead148@example.com,Web,Closed - Not Converted,Hospitality,Hot,Cologne,Germany,2026-05-07
+Sven,Vorlage,Vita Handel (Lead 150),sven.vorlage.lead149@example.com,Web,Open - Not Contacted,Manufacturing,Cold,Hamburg,Germany,2026-01-27
+David,Koch,Zenit Services (Lead 151),david.koch.lead150@example.com,Web,Working - Contacted,Manufacturing,Warm,Stuttgart,Germany,2026-04-19
+Vera,Probe,Nova Consulting (Lead 152),vera.probe.lead151@example.com,Trade Show,Closed - Not Converted,Finance,Warm,Düsseldorf,Germany,2026-06-09
+Lukas,Becker,Vita Consulting (Lead 153),lukas.becker.lead152@example.com,Phone Inquiry,Working - Contacted,Healthcare,Warm,Stuttgart,Germany,2026-07-25
+Ben,Probe,Süd Logistik (Lead 154),ben.probe.lead153@example.com,Email Campaign,Closed - Not Converted,Healthcare,Cold,Bremen,Germany,2026-06-05
+Nico,Hoffmann,Atlas Services (Lead 155),nico.hoffmann.lead154@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2025-12-15
+Sven,Demo,Zenit Handel (Lead 156),sven.demo.lead155@example.com,Web,Closed - Not Converted,Construction,Hot,Munich,Germany,2026-04-25
+Paul,Richter,Atlas Consulting (Lead 157),paul.richter.lead156@example.com,Email Campaign,Closed - Not Converted,Hospitality,Hot,Leipzig,Germany,2026-08-07
+Olga,Demo,Terra Digital (Lead 158),olga.demo.lead157@example.com,Trade Show,Open - Not Contacted,Manufacturing,Cold,Essen,Germany,2025-10-21
+Lukas,Beispiel,Delta Group (Lead 159),lukas.beispiel.lead158@example.com,Phone Inquiry,Working - Contacted,Energy,Warm,Leipzig,Germany,2025-05-26
+Lukas,Vorlage,Linea Consulting (Lead 160),lukas.vorlage.lead159@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Warm,Hannover,Germany,2026-09-09
+Yara,Beispiel,Main Systems (Lead 161),yara.beispiel.lead160@example.com,Partner Referral,Working - Contacted,Technology,Cold,Leipzig,Germany,2025-07-14
+Katrin,Beispiel,Atlas Group (Lead 162),katrin.beispiel.lead161@example.com,Web,Open - Not Contacted,Technology,Cold,Leipzig,Germany,2026-10-27
+Mara,Vorlage,Linea Logistik (Lead 163),mara.vorlage.lead162@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Warm,Leipzig,Germany,2025-03-06
+Paul,Meyer,Helio Handel (Lead 164),paul.meyer.lead163@example.com,LinkedIn,Closed - Not Converted,Technology,Cold,Dresden,Germany,2026-04-15
+Ines,Wagner,Alpha Logistik (Lead 165),ines.wagner.lead164@example.com,Trade Show,Closed - Not Converted,Construction,Warm,Bremen,Germany,2026-02-24
+Clara,Richter,Süd Handel (Lead 166),clara.richter.lead165@example.com,Phone Inquiry,Closed - Not Converted,Retail,Warm,Cologne,Germany,2025-01-09
+Sven,Schmidt,Atlas Technik (Lead 167),sven.schmidt.lead166@example.com,Web,Open - Not Contacted,Healthcare,Cold,Munich,Germany,2025-03-15
+Clara,Muster,Zenit Solutions (Lead 168),clara.muster.lead167@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Cold,Leipzig,Germany,2025-03-23
+Greta,Beispiel,Optima Systems (Lead 169),greta.beispiel.lead168@example.com,LinkedIn,Working - Contacted,Retail,Cold,Hamburg,Germany,2026-07-10
+Lukas,Richter,Zenit Digital (Lead 170),lukas.richter.lead169@example.com,Phone Inquiry,Closed - Not Converted,Technology,Hot,Leipzig,Germany,2026-01-21
+Greta,Modell,Atlas Werke (Lead 171),greta.modell.lead170@example.com,LinkedIn,Open - Not Contacted,Manufacturing,Warm,Hamburg,Germany,2026-05-01
+Elena,Weber,Elbe Logistik (Lead 172),elena.weber.lead171@example.com,Email Campaign,Closed - Not Converted,Hospitality,Cold,Düsseldorf,Germany,2025-08-16
+Ben,Fischer,Nova Werke (Lead 173),ben.fischer.lead172@example.com,Trade Show,Closed - Not Converted,Hospitality,Hot,Dresden,Germany,2026-05-27
+Jonas,Schmidt,Spree Consulting (Lead 174),jonas.schmidt.lead173@example.com,Web,Closed - Not Converted,Energy,Hot,Berlin,Germany,2025-04-18
+Ben,Hoffmann,Elbe Solutions (Lead 175),ben.hoffmann.lead174@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Cologne,Germany,2026-10-06
+Hans,Modell,Alpha Technik (Lead 176),hans.modell.lead175@example.com,Phone Inquiry,Closed - Not Converted,Construction,Hot,Essen,Germany,2025-09-11
+Lukas,Richter,West Logistik (Lead 177),lukas.richter.lead176@example.com,Web,Working - Contacted,Construction,Warm,Cologne,Germany,2026-04-26
+Vera,Neumann,Ost Handel (Lead 178),vera.neumann.lead177@example.com,LinkedIn,Working - Contacted,Finance,Cold,Hannover,Germany,2026-05-09
+Felix,Wagner,Zenit Digital (Lead 179),felix.wagner.lead178@example.com,Email Campaign,Open - Not Contacted,Retail,Hot,Stuttgart,Germany,2026-04-28
+Tina,Modell,Vita Solutions (Lead 180),tina.modell.lead179@example.com,Email Campaign,Working - Contacted,Manufacturing,Hot,Essen,Germany,2025-03-26
+Jonas,Vorlage,Prima Werke (Lead 181),jonas.vorlage.lead180@example.com,Trade Show,Closed - Not Converted,Manufacturing,Warm,Hannover,Germany,2026-02-24
+Sven,Weber,Vita Services (Lead 182),sven.weber.lead181@example.com,LinkedIn,Open - Not Contacted,Finance,Warm,Nuremberg,Germany,2026-09-24
+Yara,Wagner,Süd Group (Lead 183),yara.wagner.lead182@example.com,LinkedIn,Closed - Not Converted,Education,Warm,Berlin,Germany,2026-02-28
+David,Koch,Main Logistik (Lead 184),david.koch.lead183@example.com,Web,Open - Not Contacted,Technology,Warm,Essen,Germany,2026-10-21
+Felix,Demo,Ost Solutions (Lead 185),felix.demo.lead184@example.com,Partner Referral,Closed - Not Converted,Education,Cold,Cologne,Germany,2025-02-23
+Mara,Neumann,Terra Technik (Lead 186),mara.neumann.lead185@example.com,Web,Working - Contacted,Healthcare,Cold,Leipzig,Germany,2026-10-24
+Paul,Beispiel,Delta Handel (Lead 187),paul.beispiel.lead186@example.com,Trade Show,Closed - Not Converted,Energy,Cold,Essen,Germany,2026-05-09
+Hans,Meyer,West Solutions (Lead 188),hans.meyer.lead187@example.com,Email Campaign,Closed - Not Converted,Transportation,Warm,Munich,Germany,2025-06-19
+Tina,Modell,Terra Systems (Lead 189),tina.modell.lead188@example.com,LinkedIn,Working - Contacted,Finance,Warm,Hamburg,Germany,2025-02-09
+Willi,Weber,Helio Systems (Lead 190),willi.weber.lead189@example.com,Phone Inquiry,Open - Not Contacted,Manufacturing,Hot,Dresden,Germany,2026-05-03
+Hans,Meyer,Zenit Handel (Lead 191),hans.meyer.lead190@example.com,Partner Referral,Open - Not Contacted,Manufacturing,Cold,Cologne,Germany,2026-03-13
+Lukas,Modell,Linea Services (Lead 192),lukas.modell.lead191@example.com,LinkedIn,Working - Contacted,Education,Hot,Leipzig,Germany,2025-09-25
+Willi,Beispiel,Ost Solutions (Lead 193),willi.beispiel.lead192@example.com,Partner Referral,Working - Contacted,Manufacturing,Cold,Hamburg,Germany,2025-07-13
+Yara,Muster,Aurum Solutions (Lead 194),yara.muster.lead193@example.com,Web,Closed - Not Converted,Healthcare,Warm,Nuremberg,Germany,2025-09-08
+Paul,Demo,Beta Logistik (Lead 195),paul.demo.lead194@example.com,Web,Closed - Not Converted,Retail,Warm,Düsseldorf,Germany,2026-03-04
+Ben,Fischer,Alpha Group (Lead 196),ben.fischer.lead195@example.com,Partner Referral,Closed - Not Converted,Finance,Cold,Dresden,Germany,2026-03-19
+Anna,Modell,Prima Handel (Lead 197),anna.modell.lead196@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2026-07-03
+Ben,Hoffmann,Ost Werke (Lead 198),ben.hoffmann.lead197@example.com,Partner Referral,Working - Contacted,Manufacturing,Warm,Cologne,Germany,2026-01-20
+Yara,Koch,Brevo Services (Lead 199),yara.koch.lead198@example.com,Partner Referral,Working - Contacted,Technology,Warm,Stuttgart,Germany,2026-05-26
+Elena,Demo,Süd Services (Lead 200),elena.demo.lead199@example.com,Web,Working - Contacted,Energy,Cold,Nuremberg,Germany,2025-03-19
+Lukas,Beispiel,Süd Systems (Lead 201),lukas.beispiel.lead200@example.com,Partner Referral,Closed - Not Converted,Energy,Warm,Munich,Germany,2025-04-27
+Hans,Wagner,Atlas Services (Lead 202),hans.wagner.lead201@example.com,Partner Referral,Working - Contacted,Construction,Hot,Bremen,Germany,2025-02-07
+Anna,Becker,Terra Werke (Lead 203),anna.becker.lead202@example.com,Phone Inquiry,Working - Contacted,Technology,Warm,Hannover,Germany,2025-12-07
+Zoe,Fischer,Süd Services (Lead 204),zoe.fischer.lead203@example.com,Email Campaign,Open - Not Contacted,Healthcare,Hot,Nuremberg,Germany,2025-11-23
+Katrin,Koch,Helio Group (Lead 205),katrin.koch.lead204@example.com,Trade Show,Working - Contacted,Education,Warm,Stuttgart,Germany,2026-08-18
+Nico,Modell,Elbe Digital (Lead 206),nico.modell.lead205@example.com,Partner Referral,Working - Contacted,Construction,Warm,Stuttgart,Germany,2025-10-08
+Ben,Becker,Elbe Solutions (Lead 207),ben.becker.lead206@example.com,LinkedIn,Open - Not Contacted,Healthcare,Warm,Hannover,Germany,2026-10-23
+Clara,Richter,Nova Werke (Lead 208),clara.richter.lead207@example.com,Trade Show,Closed - Not Converted,Transportation,Warm,Hamburg,Germany,2025-09-11
+Mara,Meyer,Alpha Werke (Lead 209),mara.meyer.lead208@example.com,LinkedIn,Working - Contacted,Technology,Warm,Essen,Germany,2026-04-21
+Elena,Klein,Optima Consulting (Lead 210),elena.klein.lead209@example.com,Email Campaign,Working - Contacted,Manufacturing,Cold,Dresden,Germany,2025-09-18
+Yara,Beispiel,Delta Services (Lead 211),yara.beispiel.lead210@example.com,LinkedIn,Closed - Not Converted,Education,Cold,Bremen,Germany,2026-06-09
+David,Klein,Vita Services (Lead 212),david.klein.lead211@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Hot,Essen,Germany,2026-05-13
+Ines,Klein,Optima Technik (Lead 213),ines.klein.lead212@example.com,Trade Show,Closed - Not Converted,Transportation,Cold,Essen,Germany,2025-07-09
+Rita,Wagner,Atlas Technik (Lead 214),rita.wagner.lead213@example.com,Trade Show,Open - Not Contacted,Transportation,Warm,Berlin,Germany,2026-09-24
+Uwe,Schmidt,Süd Group (Lead 215),uwe.schmidt.lead214@example.com,Web,Closed - Not Converted,Healthcare,Cold,Hannover,Germany,2026-03-23
+Lukas,Modell,Elbe Logistik (Lead 216),lukas.modell.lead215@example.com,Trade Show,Closed - Not Converted,Manufacturing,Cold,Hannover,Germany,2025-12-01
+Greta,Wagner,Linea Consulting (Lead 217),greta.wagner.lead216@example.com,Web,Closed - Not Converted,Healthcare,Warm,Nuremberg,Germany,2026-05-04
+Katrin,Fischer,Linea Technik (Lead 218),katrin.fischer.lead217@example.com,Phone Inquiry,Open - Not Contacted,Education,Warm,Essen,Germany,2026-04-05
+Sven,Hoffmann,Elbe Logistik (Lead 219),sven.hoffmann.lead218@example.com,Web,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2025-08-05
+Anna,Richter,Delta Technik (Lead 220),anna.richter.lead219@example.com,Email Campaign,Closed - Not Converted,Retail,Cold,Hannover,Germany,2026-05-10
+Hans,Hoffmann,Helio Services (Lead 221),hans.hoffmann.lead220@example.com,LinkedIn,Closed - Not Converted,Finance,Warm,Nuremberg,Germany,2026-02-08
+Vera,Becker,Elbe Handel (Lead 222),vera.becker.lead221@example.com,Partner Referral,Closed - Not Converted,Technology,Hot,Munich,Germany,2025-02-14
+Zoe,Probe,Nord Consulting (Lead 223),zoe.probe.lead222@example.com,Web,Working - Contacted,Transportation,Hot,Bremen,Germany,2026-08-17
+Katrin,Modell,Linea Systems (Lead 224),katrin.modell.lead223@example.com,Phone Inquiry,Open - Not Contacted,Manufacturing,Warm,Leipzig,Germany,2025-12-25
+Anna,Vorlage,West Systems (Lead 225),anna.vorlage.lead224@example.com,Phone Inquiry,Closed - Not Converted,Technology,Warm,Leipzig,Germany,2025-04-24
+Willi,Wolf,Nord Services (Lead 226),willi.wolf.lead225@example.com,Partner Referral,Working - Contacted,Construction,Hot,Cologne,Germany,2025-09-25
+Rita,Weber,Zenit Handel (Lead 227),rita.weber.lead226@example.com,LinkedIn,Closed - Not Converted,Healthcare,Cold,Hannover,Germany,2026-03-09
+Anna,Modell,Terra Handel (Lead 228),anna.modell.lead227@example.com,Web,Working - Contacted,Manufacturing,Hot,Dresden,Germany,2026-05-04
+Lukas,Wagner,Vita Digital (Lead 229),lukas.wagner.lead228@example.com,Trade Show,Working - Contacted,Transportation,Cold,Leipzig,Germany,2026-07-16
+Paul,Muster,Helio Solutions (Lead 230),paul.muster.lead229@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Hannover,Germany,2025-08-22
+Olga,Fischer,Rhein Handel (Lead 231),olga.fischer.lead230@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Cold,Essen,Germany,2026-07-16
+Sven,Fischer,Aurum Consulting (Lead 232),sven.fischer.lead231@example.com,Email Campaign,Closed - Not Converted,Hospitality,Cold,Hannover,Germany,2025-12-18
+Hans,Beispiel,Prima Digital (Lead 233),hans.beispiel.lead232@example.com,LinkedIn,Closed - Not Converted,Transportation,Hot,Düsseldorf,Germany,2025-10-14
+Lukas,Fischer,Vita Group (Lead 234),lukas.fischer.lead233@example.com,Web,Open - Not Contacted,Hospitality,Cold,Cologne,Germany,2026-01-11
+Mara,Probe,Optima Services (Lead 235),mara.probe.lead234@example.com,Partner Referral,Working - Contacted,Retail,Warm,Munich,Germany,2026-09-18
+Greta,Neumann,Beta Group (Lead 236),greta.neumann.lead235@example.com,LinkedIn,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2025-03-05
+Ines,Beispiel,Aurum Solutions (Lead 237),ines.beispiel.lead236@example.com,Trade Show,Working - Contacted,Energy,Cold,Nuremberg,Germany,2025-12-21
+Willi,Vorlage,West Technik (Lead 238),willi.vorlage.lead237@example.com,LinkedIn,Open - Not Contacted,Finance,Warm,Leipzig,Germany,2026-09-17
+Tina,Beispiel,Beta Services (Lead 239),tina.beispiel.lead238@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Cold,Berlin,Germany,2025-07-17
+Zoe,Vorlage,West Group (Lead 240),zoe.vorlage.lead239@example.com,Web,Open - Not Contacted,Manufacturing,Hot,Düsseldorf,Germany,2025-07-26
+Uwe,Wolf,Atlas Consulting (Lead 241),uwe.wolf.lead240@example.com,Web,Working - Contacted,Energy,Cold,Nuremberg,Germany,2026-08-26
+Mara,Fischer,Helio Services (Lead 242),mara.fischer.lead241@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Bremen,Germany,2026-02-16
+Uwe,Wagner,Main Werke (Lead 243),uwe.wagner.lead242@example.com,Web,Open - Not Contacted,Transportation,Hot,Hamburg,Germany,2025-09-09
+Greta,Probe,Süd Group (Lead 244),greta.probe.lead243@example.com,Web,Working - Contacted,Manufacturing,Cold,Düsseldorf,Germany,2026-07-05
+David,Koch,Elbe Digital (Lead 245),david.koch.lead244@example.com,Email Campaign,Closed - Not Converted,Retail,Warm,Stuttgart,Germany,2026-01-09
+Greta,Fischer,Beta Werke (Lead 246),greta.fischer.lead245@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Hot,Stuttgart,Germany,2026-04-18
+Hans,Becker,Beta Digital (Lead 247),hans.becker.lead246@example.com,LinkedIn,Closed - Not Converted,Construction,Warm,Munich,Germany,2025-09-03
+Willi,Klein,Beta Consulting (Lead 248),willi.klein.lead247@example.com,Web,Working - Contacted,Manufacturing,Hot,Munich,Germany,2025-06-06
+Ines,Fischer,Optima Solutions (Lead 249),ines.fischer.lead248@example.com,Trade Show,Closed - Not Converted,Manufacturing,Hot,Cologne,Germany,2025-03-16
+Clara,Richter,Rhein Logistik (Lead 250),clara.richter.lead249@example.com,LinkedIn,Open - Not Contacted,Manufacturing,Warm,Berlin,Germany,2025-05-24
+Katrin,Fischer,Corvus Consulting (Lead 251),katrin.fischer.lead250@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2025-03-25
+Felix,Vorlage,Beta Handel (Lead 252),felix.vorlage.lead251@example.com,Trade Show,Working - Contacted,Retail,Warm,Berlin,Germany,2026-04-27
+Jonas,Modell,Nova Solutions (Lead 253),jonas.modell.lead252@example.com,Web,Working - Contacted,Finance,Hot,Dresden,Germany,2026-10-11
+Elena,Fischer,Beta Solutions (Lead 254),elena.fischer.lead253@example.com,Partner Referral,Closed - Not Converted,Finance,Warm,Berlin,Germany,2025-04-23
+Yara,Wolf,Delta Logistik (Lead 255),yara.wolf.lead254@example.com,Web,Working - Contacted,Technology,Cold,Bremen,Germany,2026-07-11
+Lukas,Beispiel,Beta Logistik (Lead 256),lukas.beispiel.lead255@example.com,Partner Referral,Closed - Not Converted,Technology,Hot,Hannover,Germany,2025-06-16
+Willi,Schmidt,Prima Consulting (Lead 257),willi.schmidt.lead256@example.com,LinkedIn,Open - Not Contacted,Finance,Warm,Hamburg,Germany,2026-08-10
+Anna,Neumann,Vita Handel (Lead 258),anna.neumann.lead257@example.com,Email Campaign,Working - Contacted,Technology,Hot,Dresden,Germany,2025-07-02
+Vera,Weber,Linea Systems (Lead 259),vera.weber.lead258@example.com,Web,Working - Contacted,Technology,Warm,Munich,Germany,2026-02-12
+Jonas,Probe,Delta Logistik (Lead 260),jonas.probe.lead259@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Warm,Nuremberg,Germany,2026-09-10
+Rita,Wolf,Corvus Consulting (Lead 261),rita.wolf.lead260@example.com,Web,Open - Not Contacted,Hospitality,Hot,Munich,Germany,2026-04-13
+Clara,Meyer,Süd Consulting (Lead 262),clara.meyer.lead261@example.com,Web,Closed - Not Converted,Healthcare,Hot,Cologne,Germany,2026-08-09
+David,Hoffmann,Spree Technik (Lead 263),david.hoffmann.lead262@example.com,LinkedIn,Working - Contacted,Technology,Hot,Hannover,Germany,2026-01-23
+Anna,Vorlage,Nova Werke (Lead 264),anna.vorlage.lead263@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Hannover,Germany,2026-06-11
+Katrin,Klein,Orion Solutions (Lead 265),katrin.klein.lead264@example.com,Trade Show,Working - Contacted,Technology,Warm,Hannover,Germany,2025-07-09
+Ines,Schmidt,Linea Digital (Lead 266),ines.schmidt.lead265@example.com,Email Campaign,Working - Contacted,Retail,Warm,Bremen,Germany,2025-06-01
+Anna,Hoffmann,Nord Solutions (Lead 267),anna.hoffmann.lead266@example.com,LinkedIn,Working - Contacted,Retail,Cold,Bremen,Germany,2025-09-08
+Vera,Becker,West Services (Lead 268),vera.becker.lead267@example.com,Web,Working - Contacted,Construction,Warm,Hamburg,Germany,2025-04-04
+Greta,Hoffmann,Spree Consulting (Lead 269),greta.hoffmann.lead268@example.com,Trade Show,Working - Contacted,Finance,Cold,Essen,Germany,2025-05-13
+Zoe,Probe,Terra Logistik (Lead 270),zoe.probe.lead269@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Berlin,Germany,2026-06-27
+Willi,Hoffmann,Vita Services (Lead 271),willi.hoffmann.lead270@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Warm,Dresden,Germany,2026-09-26
+Paul,Richter,Nova Handel (Lead 272),paul.richter.lead271@example.com,Email Campaign,Closed - Not Converted,Construction,Warm,Cologne,Germany,2025-08-13
+Hans,Becker,Helio Solutions (Lead 273),hans.becker.lead272@example.com,Web,Working - Contacted,Transportation,Cold,Stuttgart,Germany,2026-02-01
+Nico,Fischer,Delta Werke (Lead 274),nico.fischer.lead273@example.com,Partner Referral,Working - Contacted,Construction,Warm,Leipzig,Germany,2025-11-26
+Tina,Meyer,Main Werke (Lead 275),tina.meyer.lead274@example.com,Web,Open - Not Contacted,Construction,Warm,Hannover,Germany,2026-05-24
+Paul,Demo,West Werke (Lead 276),paul.demo.lead275@example.com,Trade Show,Open - Not Contacted,Healthcare,Cold,Hamburg,Germany,2026-01-21
+Jonas,Hoffmann,Helio Digital (Lead 277),jonas.hoffmann.lead276@example.com,Web,Open - Not Contacted,Technology,Cold,Hannover,Germany,2026-01-28
+Greta,Koch,Delta Technik (Lead 278),greta.koch.lead277@example.com,Email Campaign,Closed - Not Converted,Retail,Hot,Nuremberg,Germany,2025-03-12
+David,Wagner,Main Services (Lead 279),david.wagner.lead278@example.com,LinkedIn,Closed - Not Converted,Finance,Cold,Leipzig,Germany,2025-08-17
+Elena,Modell,Süd Logistik (Lead 280),elena.modell.lead279@example.com,Trade Show,Working - Contacted,Hospitality,Cold,Hannover,Germany,2025-04-16
+Sven,Neumann,Linea Technik (Lead 281),sven.neumann.lead280@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2026-06-28
+Tina,Fischer,Orion Group (Lead 282),tina.fischer.lead281@example.com,Web,Working - Contacted,Retail,Cold,Stuttgart,Germany,2025-04-08
+Nico,Becker,Vita Digital (Lead 283),nico.becker.lead282@example.com,Partner Referral,Open - Not Contacted,Retail,Warm,Bremen,Germany,2026-07-11
+Jonas,Klein,Aurum Digital (Lead 284),jonas.klein.lead283@example.com,Web,Closed - Not Converted,Retail,Warm,Cologne,Germany,2025-07-14
+Yara,Probe,Orion Solutions (Lead 285),yara.probe.lead284@example.com,LinkedIn,Closed - Not Converted,Construction,Cold,Nuremberg,Germany,2025-02-25
+Willi,Klein,West Services (Lead 286),willi.klein.lead285@example.com,Web,Open - Not Contacted,Manufacturing,Cold,Hannover,Germany,2026-10-13
+Uwe,Weber,Optima Handel (Lead 287),uwe.weber.lead286@example.com,Partner Referral,Closed - Not Converted,Healthcare,Cold,Berlin,Germany,2026-07-05
+Greta,Schmidt,Prima Technik (Lead 288),greta.schmidt.lead287@example.com,Email Campaign,Closed - Not Converted,Energy,Hot,Düsseldorf,Germany,2025-11-01
+Felix,Wagner,Delta Digital (Lead 289),felix.wagner.lead288@example.com,Trade Show,Working - Contacted,Education,Hot,Essen,Germany,2025-11-05
+Elena,Wolf,Prima Consulting (Lead 290),elena.wolf.lead289@example.com,Web,Working - Contacted,Retail,Cold,Cologne,Germany,2026-08-07
+Tina,Neumann,Main Werke (Lead 291),tina.neumann.lead290@example.com,LinkedIn,Working - Contacted,Education,Warm,Stuttgart,Germany,2026-09-18
+Anna,Vorlage,Atlas Logistik (Lead 292),anna.vorlage.lead291@example.com,Email Campaign,Closed - Not Converted,Construction,Hot,Bremen,Germany,2025-11-06
+Clara,Wagner,Main Digital (Lead 293),clara.wagner.lead292@example.com,Trade Show,Closed - Not Converted,Healthcare,Cold,Leipzig,Germany,2026-05-20
+Olga,Richter,Optima Group (Lead 294),olga.richter.lead293@example.com,Web,Closed - Not Converted,Education,Warm,Essen,Germany,2025-05-27
+Anna,Beispiel,Ost Services (Lead 295),anna.beispiel.lead294@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Warm,Stuttgart,Germany,2026-05-24
+Rita,Schmidt,Brevo Systems (Lead 296),rita.schmidt.lead295@example.com,Email Campaign,Closed - Not Converted,Retail,Cold,Dresden,Germany,2026-02-22
+Ines,Muster,Corvus Digital (Lead 297),ines.muster.lead296@example.com,LinkedIn,Working - Contacted,Technology,Cold,Cologne,Germany,2025-02-17
+Greta,Neumann,Nord Technik (Lead 298),greta.neumann.lead297@example.com,Email Campaign,Working - Contacted,Technology,Cold,Hannover,Germany,2025-07-10
+Clara,Schmidt,Alpha Handel (Lead 299),clara.schmidt.lead298@example.com,LinkedIn,Working - Contacted,Transportation,Cold,Cologne,Germany,2025-06-03
+Ben,Neumann,Helio Technik (Lead 300),ben.neumann.lead299@example.com,LinkedIn,Open - Not Contacted,Technology,Cold,Stuttgart,Germany,2025-04-20
+Lukas,Klein,Linea Services (Lead 301),lukas.klein.lead300@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2026-07-08
+Elena,Fischer,Delta Handel (Lead 302),elena.fischer.lead301@example.com,Web,Open - Not Contacted,Construction,Cold,Essen,Germany,2026-04-05
+Jonas,Demo,Prima Consulting (Lead 303),jonas.demo.lead302@example.com,Partner Referral,Closed - Not Converted,Technology,Hot,Dresden,Germany,2026-01-07
+Lukas,Weber,Delta Services (Lead 304),lukas.weber.lead303@example.com,Partner Referral,Working - Contacted,Education,Cold,Düsseldorf,Germany,2026-01-06
+Uwe,Meyer,Terra Systems (Lead 305),uwe.meyer.lead304@example.com,Web,Working - Contacted,Finance,Cold,Stuttgart,Germany,2025-07-22
+Jonas,Probe,Nord Technik (Lead 306),jonas.probe.lead305@example.com,Web,Closed - Not Converted,Education,Hot,Dresden,Germany,2025-08-03
+Katrin,Beispiel,Prima Handel (Lead 307),katrin.beispiel.lead306@example.com,Web,Closed - Not Converted,Technology,Hot,Hannover,Germany,2026-03-10
+Uwe,Fischer,Elbe Digital (Lead 308),uwe.fischer.lead307@example.com,Email Campaign,Closed - Not Converted,Construction,Cold,Hannover,Germany,2025-10-22
+Nico,Meyer,Aurum Digital (Lead 309),nico.meyer.lead308@example.com,LinkedIn,Closed - Not Converted,Hospitality,Cold,Essen,Germany,2025-02-24
+Felix,Becker,Terra Services (Lead 310),felix.becker.lead309@example.com,Phone Inquiry,Closed - Not Converted,Transportation,Cold,Essen,Germany,2026-02-23
+Elena,Fischer,Aurum Solutions (Lead 311),elena.fischer.lead310@example.com,Partner Referral,Working - Contacted,Healthcare,Warm,Dresden,Germany,2026-09-14
+Ines,Vorlage,Main Services (Lead 312),ines.vorlage.lead311@example.com,Phone Inquiry,Closed - Not Converted,Education,Cold,Stuttgart,Germany,2025-10-09
+Yara,Fischer,Beta Services (Lead 313),yara.fischer.lead312@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Düsseldorf,Germany,2025-04-03
+Elena,Koch,Optima Solutions (Lead 314),elena.koch.lead313@example.com,Phone Inquiry,Working - Contacted,Transportation,Warm,Munich,Germany,2026-07-19
+Felix,Weber,Spree Werke (Lead 315),felix.weber.lead314@example.com,LinkedIn,Closed - Not Converted,Transportation,Cold,Essen,Germany,2025-07-01
+Jonas,Schmidt,Alpha Technik (Lead 316),jonas.schmidt.lead315@example.com,Partner Referral,Closed - Not Converted,Healthcare,Cold,Hannover,Germany,2026-08-28
+Paul,Klein,Spree Group (Lead 317),paul.klein.lead316@example.com,Email Campaign,Open - Not Contacted,Technology,Warm,Stuttgart,Germany,2026-09-06
+Yara,Vorlage,Brevo Technik (Lead 318),yara.vorlage.lead317@example.com,Trade Show,Working - Contacted,Technology,Warm,Bremen,Germany,2026-08-12
+Anna,Probe,Optima Systems (Lead 319),anna.probe.lead318@example.com,LinkedIn,Closed - Not Converted,Construction,Cold,Bremen,Germany,2025-03-15
+Katrin,Demo,Main Consulting (Lead 320),katrin.demo.lead319@example.com,Email Campaign,Working - Contacted,Technology,Warm,Düsseldorf,Germany,2026-03-26
+Anna,Beispiel,Zenit Technik (Lead 321),anna.beispiel.lead320@example.com,Partner Referral,Closed - Not Converted,Retail,Warm,Hannover,Germany,2026-05-13
+David,Probe,West Logistik (Lead 322),david.probe.lead321@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Stuttgart,Germany,2026-03-20
+Greta,Beispiel,Spree Solutions (Lead 323),greta.beispiel.lead322@example.com,Web,Closed - Not Converted,Technology,Warm,Dresden,Germany,2025-03-11
+Mara,Koch,Helio Werke (Lead 324),mara.koch.lead323@example.com,LinkedIn,Open - Not Contacted,Retail,Warm,Bremen,Germany,2026-04-23
+Felix,Beispiel,Nord Logistik (Lead 325),felix.beispiel.lead324@example.com,Web,Closed - Not Converted,Retail,Warm,Berlin,Germany,2025-09-27
+Jonas,Muster,Prima Systems (Lead 326),jonas.muster.lead325@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Düsseldorf,Germany,2025-12-17
+Katrin,Richter,Delta Group (Lead 327),katrin.richter.lead326@example.com,Web,Closed - Not Converted,Technology,Warm,Bremen,Germany,2025-12-17
+Greta,Fischer,Terra Technik (Lead 328),greta.fischer.lead327@example.com,LinkedIn,Open - Not Contacted,Technology,Warm,Hamburg,Germany,2025-05-20
+Vera,Hoffmann,Spree Digital (Lead 329),vera.hoffmann.lead328@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Düsseldorf,Germany,2026-01-12
+Ben,Schmidt,Atlas Group (Lead 330),ben.schmidt.lead329@example.com,Web,Open - Not Contacted,Technology,Warm,Leipzig,Germany,2026-06-09
+David,Becker,Main Technik (Lead 331),david.becker.lead330@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Warm,Hannover,Germany,2026-04-24
+Jonas,Schmidt,Elbe Consulting (Lead 332),jonas.schmidt.lead331@example.com,Web,Closed - Not Converted,Technology,Warm,Nuremberg,Germany,2025-09-06
+Sven,Modell,Terra Services (Lead 333),sven.modell.lead332@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Hot,Hamburg,Germany,2025-12-22
+Uwe,Klein,Prima Consulting (Lead 334),uwe.klein.lead333@example.com,Web,Closed - Not Converted,Retail,Cold,Bremen,Germany,2026-01-23
+Vera,Wagner,Nord Handel (Lead 335),vera.wagner.lead334@example.com,LinkedIn,Working - Contacted,Construction,Warm,Berlin,Germany,2026-10-08
+Elena,Koch,Prima Solutions (Lead 336),elena.koch.lead335@example.com,Trade Show,Closed - Not Converted,Education,Hot,Nuremberg,Germany,2025-04-19
+Lukas,Becker,Zenit Werke (Lead 337),lukas.becker.lead336@example.com,Trade Show,Working - Contacted,Technology,Cold,Cologne,Germany,2025-09-16
+Yara,Modell,Süd Systems (Lead 338),yara.modell.lead337@example.com,Web,Closed - Not Converted,Technology,Warm,Dresden,Germany,2025-01-01
+Rita,Hoffmann,Alpha Solutions (Lead 339),rita.hoffmann.lead338@example.com,Web,Open - Not Contacted,Manufacturing,Warm,Leipzig,Germany,2026-05-18
+Katrin,Vorlage,Nova Solutions (Lead 340),katrin.vorlage.lead339@example.com,Email Campaign,Working - Contacted,Finance,Hot,Nuremberg,Germany,2026-10-08
+Hans,Klein,Alpha Systems (Lead 341),hans.klein.lead340@example.com,Web,Open - Not Contacted,Healthcare,Warm,Leipzig,Germany,2026-03-18
+Yara,Becker,Süd Consulting (Lead 342),yara.becker.lead341@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Cold,Munich,Germany,2025-11-22
+Paul,Hoffmann,Corvus Solutions (Lead 343),paul.hoffmann.lead342@example.com,Web,Working - Contacted,Construction,Cold,Berlin,Germany,2025-08-03
+Elena,Fischer,Vita Werke (Lead 344),elena.fischer.lead343@example.com,Web,Closed - Not Converted,Retail,Cold,Cologne,Germany,2025-10-04
+Tina,Muster,Spree Services (Lead 345),tina.muster.lead344@example.com,Phone Inquiry,Open - Not Contacted,Finance,Cold,Düsseldorf,Germany,2026-10-20
+Ben,Wagner,Prima Technik (Lead 346),ben.wagner.lead345@example.com,Web,Working - Contacted,Education,Warm,Berlin,Germany,2026-02-09
+Zoe,Richter,Rhein Systems (Lead 347),zoe.richter.lead346@example.com,Trade Show,Working - Contacted,Technology,Warm,Berlin,Germany,2026-05-04
+Anna,Wolf,Corvus Digital (Lead 348),anna.wolf.lead347@example.com,Email Campaign,Open - Not Contacted,Retail,Cold,Hamburg,Germany,2026-07-10
+Paul,Beispiel,Aurum Handel (Lead 349),paul.beispiel.lead348@example.com,Web,Working - Contacted,Construction,Warm,Düsseldorf,Germany,2026-10-08
+Katrin,Klein,Beta Group (Lead 350),katrin.klein.lead349@example.com,LinkedIn,Closed - Not Converted,Transportation,Warm,Hamburg,Germany,2025-02-04
+Tina,Vorlage,Nova Digital (Lead 351),tina.vorlage.lead350@example.com,Partner Referral,Closed - Not Converted,Finance,Cold,Nuremberg,Germany,2025-01-20
+Nico,Weber,Süd Consulting (Lead 352),nico.weber.lead351@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Cold,Leipzig,Germany,2026-01-15
+Yara,Modell,Main Group (Lead 353),yara.modell.lead352@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2025-10-18
+Rita,Becker,Linea Technik (Lead 354),rita.becker.lead353@example.com,LinkedIn,Closed - Not Converted,Energy,Warm,Bremen,Germany,2025-04-11
+Greta,Richter,West Digital (Lead 355),greta.richter.lead354@example.com,Email Campaign,Closed - Not Converted,Construction,Cold,Leipzig,Germany,2026-06-23
+Hans,Vorlage,Main Solutions (Lead 356),hans.vorlage.lead355@example.com,Web,Closed - Not Converted,Energy,Cold,Hamburg,Germany,2025-12-02
+Nico,Koch,Delta Group (Lead 357),nico.koch.lead356@example.com,Trade Show,Closed - Not Converted,Retail,Hot,Hamburg,Germany,2025-11-09
+Vera,Weber,Vita Digital (Lead 358),vera.weber.lead357@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2025-01-01
+Zoe,Wolf,Helio Group (Lead 359),zoe.wolf.lead358@example.com,Email Campaign,Working - Contacted,Retail,Cold,Berlin,Germany,2026-06-03
+Tina,Becker,Delta Technik (Lead 360),tina.becker.lead359@example.com,LinkedIn,Working - Contacted,Manufacturing,Cold,Munich,Germany,2026-08-13
+Willi,Demo,Nord Digital (Lead 361),willi.demo.lead360@example.com,Email Campaign,Closed - Not Converted,Construction,Warm,Nuremberg,Germany,2025-09-03
+Katrin,Wolf,Corvus Consulting (Lead 362),katrin.wolf.lead361@example.com,LinkedIn,Working - Contacted,Manufacturing,Hot,Dresden,Germany,2026-05-16
+Ben,Modell,Brevo Handel (Lead 363),ben.modell.lead362@example.com,LinkedIn,Open - Not Contacted,Retail,Cold,Cologne,Germany,2025-05-05
+Lukas,Muster,Prima Group (Lead 364),lukas.muster.lead363@example.com,Web,Closed - Not Converted,Construction,Hot,Dresden,Germany,2025-08-25
+Felix,Wolf,Beta Consulting (Lead 365),felix.wolf.lead364@example.com,Email Campaign,Working - Contacted,Finance,Warm,Berlin,Germany,2025-06-24
+Hans,Richter,Corvus Solutions (Lead 366),hans.richter.lead365@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Warm,Munich,Germany,2026-03-12
+Nico,Becker,Aurum Handel (Lead 367),nico.becker.lead366@example.com,LinkedIn,Closed - Not Converted,Retail,Warm,Cologne,Germany,2025-10-04
+Mara,Probe,Orion Group (Lead 368),mara.probe.lead367@example.com,Trade Show,Closed - Not Converted,Energy,Warm,Dresden,Germany,2026-02-11
+Elena,Fischer,Main Handel (Lead 369),elena.fischer.lead368@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Hot,Nuremberg,Germany,2025-09-15
+Hans,Demo,Terra Systems (Lead 370),hans.demo.lead369@example.com,Web,Open - Not Contacted,Retail,Cold,Hannover,Germany,2025-02-03
+Mara,Meyer,Spree Solutions (Lead 371),mara.meyer.lead370@example.com,Trade Show,Working - Contacted,Healthcare,Hot,Leipzig,Germany,2025-07-23
+Jonas,Wagner,Zenit Consulting (Lead 372),jonas.wagner.lead371@example.com,LinkedIn,Closed - Not Converted,Finance,Cold,Düsseldorf,Germany,2026-04-15
+Felix,Demo,Brevo Handel (Lead 373),felix.demo.lead372@example.com,Web,Closed - Not Converted,Retail,Cold,Essen,Germany,2025-07-25
+Rita,Koch,Spree Logistik (Lead 374),rita.koch.lead373@example.com,Web,Open - Not Contacted,Manufacturing,Cold,Hannover,Germany,2026-01-14
+Olga,Vorlage,Aurum Solutions (Lead 375),olga.vorlage.lead374@example.com,Partner Referral,Open - Not Contacted,Energy,Cold,Hannover,Germany,2025-11-24
+Ben,Beispiel,Beta Technik (Lead 376),ben.beispiel.lead375@example.com,Web,Closed - Not Converted,Technology,Cold,Hannover,Germany,2026-03-21
+Anna,Wolf,Rhein Logistik (Lead 377),anna.wolf.lead376@example.com,Partner Referral,Closed - Not Converted,Transportation,Warm,Dresden,Germany,2025-08-17
+Yara,Muster,Beta Solutions (Lead 378),yara.muster.lead377@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Nuremberg,Germany,2026-01-23
+Vera,Weber,Vita Technik (Lead 379),vera.weber.lead378@example.com,Trade Show,Closed - Not Converted,Healthcare,Warm,Nuremberg,Germany,2026-04-09
+Felix,Wagner,Prima Digital (Lead 380),felix.wagner.lead379@example.com,Partner Referral,Open - Not Contacted,Healthcare,Hot,Dresden,Germany,2025-08-13
+David,Fischer,Vita Technik (Lead 381),david.fischer.lead380@example.com,Partner Referral,Working - Contacted,Retail,Warm,Düsseldorf,Germany,2025-10-10
+Rita,Koch,Alpha Solutions (Lead 382),rita.koch.lead381@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Warm,Hannover,Germany,2026-02-19
+Vera,Wolf,Helio Solutions (Lead 383),vera.wolf.lead382@example.com,Web,Closed - Not Converted,Retail,Warm,Nuremberg,Germany,2026-04-14
+Jonas,Beispiel,Elbe Handel (Lead 384),jonas.beispiel.lead383@example.com,Email Campaign,Working - Contacted,Manufacturing,Hot,Hannover,Germany,2026-05-09
+Sven,Weber,Prima Systems (Lead 385),sven.weber.lead384@example.com,LinkedIn,Working - Contacted,Energy,Cold,Dresden,Germany,2026-09-03
+Mara,Wagner,Süd Technik (Lead 386),mara.wagner.lead385@example.com,LinkedIn,Working - Contacted,Retail,Warm,Leipzig,Germany,2025-01-11
+Lukas,Neumann,Corvus Werke (Lead 387),lukas.neumann.lead386@example.com,Email Campaign,Working - Contacted,Healthcare,Hot,Essen,Germany,2025-11-25
+Ines,Vorlage,Nova Werke (Lead 388),ines.vorlage.lead387@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Warm,Nuremberg,Germany,2026-07-12
+Uwe,Muster,Beta Services (Lead 389),uwe.muster.lead388@example.com,Web,Working - Contacted,Manufacturing,Cold,Dresden,Germany,2025-03-02
+David,Fischer,Main Services (Lead 390),david.fischer.lead389@example.com,LinkedIn,Closed - Not Converted,Construction,Cold,Dresden,Germany,2025-08-07
+Ben,Modell,Aurum Solutions (Lead 391),ben.modell.lead390@example.com,Web,Closed - Not Converted,Technology,Hot,Nuremberg,Germany,2025-02-16
+Ben,Modell,Brevo Werke (Lead 392),ben.modell.lead391@example.com,Partner Referral,Closed - Not Converted,Technology,Cold,Leipzig,Germany,2026-01-01
+Zoe,Wagner,Süd Services (Lead 393),zoe.wagner.lead392@example.com,Web,Working - Contacted,Finance,Warm,Leipzig,Germany,2026-08-10
+Rita,Modell,Orion Group (Lead 394),rita.modell.lead393@example.com,LinkedIn,Closed - Not Converted,Construction,Cold,Düsseldorf,Germany,2026-07-28
+Ben,Fischer,Aurum Group (Lead 395),ben.fischer.lead394@example.com,Web,Closed - Not Converted,Construction,Warm,Stuttgart,Germany,2025-02-24
+Lukas,Richter,Rhein Technik (Lead 396),lukas.richter.lead395@example.com,LinkedIn,Closed - Not Converted,Technology,Cold,Berlin,Germany,2026-05-20
+Willi,Demo,Süd Services (Lead 397),willi.demo.lead396@example.com,Trade Show,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2025-06-09
+Clara,Muster,Elbe Werke (Lead 398),clara.muster.lead397@example.com,Trade Show,Open - Not Contacted,Manufacturing,Warm,Nuremberg,Germany,2025-04-25
+Felix,Weber,Vita Handel (Lead 399),felix.weber.lead398@example.com,Email Campaign,Working - Contacted,Construction,Warm,Düsseldorf,Germany,2025-05-07
+David,Richter,Corvus Systems (Lead 400),david.richter.lead399@example.com,LinkedIn,Closed - Not Converted,Retail,Cold,Hamburg,Germany,2025-04-03
+Katrin,Beispiel,West Systems (Lead 401),katrin.beispiel.lead400@example.com,Phone Inquiry,Working - Contacted,Technology,Warm,Cologne,Germany,2026-08-10
+Elena,Modell,Optima Handel (Lead 402),elena.modell.lead401@example.com,LinkedIn,Closed - Not Converted,Retail,Warm,Cologne,Germany,2026-07-03
+Willi,Schmidt,Optima Technik (Lead 403),willi.schmidt.lead402@example.com,Web,Closed - Not Converted,Technology,Cold,Cologne,Germany,2026-06-24
+Zoe,Demo,Nova Handel (Lead 404),zoe.demo.lead403@example.com,Partner Referral,Working - Contacted,Healthcare,Hot,Leipzig,Germany,2026-09-13
+Greta,Koch,Main Services (Lead 405),greta.koch.lead404@example.com,Trade Show,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2025-06-01
+Sven,Demo,Optima Group (Lead 406),sven.demo.lead405@example.com,LinkedIn,Open - Not Contacted,Finance,Warm,Düsseldorf,Germany,2025-04-06
+Ines,Meyer,Ost Handel (Lead 407),ines.meyer.lead406@example.com,Web,Closed - Not Converted,Transportation,Cold,Essen,Germany,2026-05-14
+Lukas,Vorlage,Brevo Consulting (Lead 408),lukas.vorlage.lead407@example.com,Web,Open - Not Contacted,Education,Warm,Nuremberg,Germany,2026-10-18
+Olga,Probe,Linea Technik (Lead 409),olga.probe.lead408@example.com,Web,Working - Contacted,Finance,Warm,Hamburg,Germany,2026-03-23
+Vera,Modell,West Systems (Lead 410),vera.modell.lead409@example.com,Phone Inquiry,Closed - Not Converted,Construction,Cold,Dresden,Germany,2026-03-04
+Yara,Fischer,Delta Group (Lead 411),yara.fischer.lead410@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Berlin,Germany,2025-10-15
+Hans,Meyer,Beta Logistik (Lead 412),hans.meyer.lead411@example.com,LinkedIn,Closed - Not Converted,Construction,Cold,Düsseldorf,Germany,2025-07-20
+Vera,Beispiel,Nova Digital (Lead 413),vera.beispiel.lead412@example.com,LinkedIn,Closed - Not Converted,Finance,Cold,Düsseldorf,Germany,2025-11-26
+Felix,Meyer,Ost Digital (Lead 414),felix.meyer.lead413@example.com,Email Campaign,Closed - Not Converted,Technology,Warm,Hamburg,Germany,2026-05-08
+Nico,Richter,Corvus Logistik (Lead 415),nico.richter.lead414@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2026-07-19
+Mara,Klein,Elbe Technik (Lead 416),mara.klein.lead415@example.com,Web,Open - Not Contacted,Manufacturing,Warm,Nuremberg,Germany,2026-08-06
+Katrin,Fischer,Prima Digital (Lead 417),katrin.fischer.lead416@example.com,Phone Inquiry,Closed - Not Converted,Finance,Warm,Hamburg,Germany,2026-10-02
+Willi,Meyer,Nord Logistik (Lead 418),willi.meyer.lead417@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Essen,Germany,2026-03-10
+Hans,Meyer,Prima Logistik (Lead 419),hans.meyer.lead418@example.com,Email Campaign,Open - Not Contacted,Construction,Warm,Bremen,Germany,2026-01-05
+Katrin,Richter,Linea Digital (Lead 420),katrin.richter.lead419@example.com,Web,Working - Contacted,Transportation,Cold,Dresden,Germany,2025-06-23
+Paul,Klein,Main Services (Lead 421),paul.klein.lead420@example.com,Email Campaign,Open - Not Contacted,Hospitality,Cold,Hannover,Germany,2026-07-11
+Uwe,Weber,West Group (Lead 422),uwe.weber.lead421@example.com,Web,Closed - Not Converted,Transportation,Warm,Hamburg,Germany,2025-02-12
+Greta,Koch,West Werke (Lead 423),greta.koch.lead422@example.com,Web,Working - Contacted,Finance,Cold,Hamburg,Germany,2026-09-10
+Uwe,Becker,Main Services (Lead 424),uwe.becker.lead423@example.com,Web,Working - Contacted,Retail,Cold,Munich,Germany,2026-09-26
+Olga,Koch,Helio Technik (Lead 425),olga.koch.lead424@example.com,Web,Closed - Not Converted,Education,Cold,Düsseldorf,Germany,2026-02-13
+Mara,Wagner,Corvus Systems (Lead 426),mara.wagner.lead425@example.com,Partner Referral,Open - Not Contacted,Healthcare,Cold,Hamburg,Germany,2025-07-13
+Lukas,Probe,Linea Technik (Lead 427),lukas.probe.lead426@example.com,Partner Referral,Working - Contacted,Finance,Hot,Leipzig,Germany,2026-05-11
+Mara,Schmidt,West Digital (Lead 428),mara.schmidt.lead427@example.com,LinkedIn,Working - Contacted,Transportation,Warm,Dresden,Germany,2025-05-20
+Hans,Vorlage,Vita Systems (Lead 429),hans.vorlage.lead428@example.com,Trade Show,Working - Contacted,Retail,Hot,Bremen,Germany,2025-05-24
+Nico,Probe,Vita Group (Lead 430),nico.probe.lead429@example.com,Email Campaign,Working - Contacted,Finance,Cold,Berlin,Germany,2025-01-26
+Ines,Koch,Optima Logistik (Lead 431),ines.koch.lead430@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2026-01-19
+Clara,Fischer,Süd Werke (Lead 432),clara.fischer.lead431@example.com,Email Campaign,Closed - Not Converted,Finance,Cold,Munich,Germany,2025-02-22
+Katrin,Becker,Elbe Technik (Lead 433),katrin.becker.lead432@example.com,Partner Referral,Working - Contacted,Transportation,Warm,Cologne,Germany,2026-01-05
+Jonas,Beispiel,Zenit Services (Lead 434),jonas.beispiel.lead433@example.com,LinkedIn,Open - Not Contacted,Transportation,Warm,Hamburg,Germany,2026-08-01
+Mara,Fischer,Spree Handel (Lead 435),mara.fischer.lead434@example.com,Web,Closed - Not Converted,Finance,Cold,Essen,Germany,2026-08-08
+Hans,Wolf,Alpha Logistik (Lead 436),hans.wolf.lead435@example.com,Web,Closed - Not Converted,Education,Cold,Dresden,Germany,2025-02-25
+Rita,Modell,Ost Systems (Lead 437),rita.modell.lead436@example.com,Phone Inquiry,Working - Contacted,Retail,Warm,Cologne,Germany,2026-08-20
+Anna,Richter,Rhein Logistik (Lead 438),anna.richter.lead437@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Leipzig,Germany,2025-05-18
+Anna,Fischer,Nova Technik (Lead 439),anna.fischer.lead438@example.com,LinkedIn,Closed - Not Converted,Finance,Hot,Cologne,Germany,2026-02-28
+Elena,Demo,Elbe Services (Lead 440),elena.demo.lead439@example.com,Trade Show,Closed - Not Converted,Retail,Cold,Nuremberg,Germany,2026-09-26
+Olga,Meyer,Süd Consulting (Lead 441),olga.meyer.lead440@example.com,LinkedIn,Closed - Not Converted,Energy,Cold,Munich,Germany,2026-06-19
+Katrin,Weber,Süd Technik (Lead 442),katrin.weber.lead441@example.com,Phone Inquiry,Closed - Not Converted,Education,Warm,Bremen,Germany,2026-08-20
+Lukas,Hoffmann,Main Group (Lead 443),lukas.hoffmann.lead442@example.com,Web,Closed - Not Converted,Energy,Warm,Hamburg,Germany,2026-04-02
+Jonas,Weber,Terra Handel (Lead 444),jonas.weber.lead443@example.com,Phone Inquiry,Working - Contacted,Manufacturing,Warm,Dresden,Germany,2026-01-02
+Vera,Probe,Vita Solutions (Lead 445),vera.probe.lead444@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2026-06-22
+Paul,Klein,Atlas Consulting (Lead 446),paul.klein.lead445@example.com,Web,Open - Not Contacted,Finance,Warm,Munich,Germany,2025-05-28
+Mara,Demo,Beta Systems (Lead 447),mara.demo.lead446@example.com,Web,Closed - Not Converted,Technology,Warm,Berlin,Germany,2025-11-24
+Clara,Wagner,Elbe Logistik (Lead 448),clara.wagner.lead447@example.com,Trade Show,Working - Contacted,Finance,Warm,Leipzig,Germany,2025-12-07
+Clara,Meyer,Brevo Werke (Lead 449),clara.meyer.lead448@example.com,LinkedIn,Closed - Not Converted,Technology,Cold,Bremen,Germany,2026-09-15
+Felix,Hoffmann,Rhein Consulting (Lead 450),felix.hoffmann.lead449@example.com,Partner Referral,Working - Contacted,Healthcare,Cold,Munich,Germany,2026-08-02
+Tina,Beispiel,Süd Handel (Lead 451),tina.beispiel.lead450@example.com,Web,Working - Contacted,Technology,Warm,Düsseldorf,Germany,2026-08-27
+Anna,Wolf,Brevo Group (Lead 452),anna.wolf.lead451@example.com,Email Campaign,Working - Contacted,Energy,Cold,Hannover,Germany,2026-07-04
+Elena,Richter,Helio Logistik (Lead 453),elena.richter.lead452@example.com,Web,Working - Contacted,Finance,Warm,Nuremberg,Germany,2026-04-21
+Jonas,Wolf,Optima Technik (Lead 454),jonas.wolf.lead453@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Cold,Dresden,Germany,2025-08-12
+Greta,Wolf,Alpha Technik (Lead 455),greta.wolf.lead454@example.com,Email Campaign,Working - Contacted,Technology,Cold,Dresden,Germany,2026-10-12
+Elena,Vorlage,Zenit Werke (Lead 456),elena.vorlage.lead455@example.com,Web,Closed - Not Converted,Finance,Cold,Cologne,Germany,2025-09-06
+Felix,Vorlage,Nord Handel (Lead 457),felix.vorlage.lead456@example.com,LinkedIn,Working - Contacted,Energy,Warm,Bremen,Germany,2025-09-04
+Anna,Meyer,Alpha Services (Lead 458),anna.meyer.lead457@example.com,Web,Closed - Not Converted,Technology,Hot,Hannover,Germany,2026-05-13
+David,Wagner,Rhein Logistik (Lead 459),david.wagner.lead458@example.com,Partner Referral,Closed - Not Converted,Retail,Warm,Cologne,Germany,2025-12-26
+Willi,Muster,Alpha Systems (Lead 460),willi.muster.lead459@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Bremen,Germany,2025-10-07
+Olga,Schmidt,Linea Group (Lead 461),olga.schmidt.lead460@example.com,Web,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2026-08-02
+Willi,Wagner,Rhein Technik (Lead 462),willi.wagner.lead461@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Cold,Hamburg,Germany,2025-07-15
+Rita,Vorlage,Ost Digital (Lead 463),rita.vorlage.lead462@example.com,Email Campaign,Closed - Not Converted,Transportation,Cold,Cologne,Germany,2025-04-12
+Nico,Modell,Nova Technik (Lead 464),nico.modell.lead463@example.com,LinkedIn,Working - Contacted,Energy,Warm,Essen,Germany,2025-08-23
+Nico,Becker,Alpha Werke (Lead 465),nico.becker.lead464@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Düsseldorf,Germany,2026-09-12
+Sven,Becker,Linea Technik (Lead 466),sven.becker.lead465@example.com,Web,Closed - Not Converted,Healthcare,Warm,Munich,Germany,2025-10-05
+Clara,Richter,Prima Logistik (Lead 467),clara.richter.lead466@example.com,Email Campaign,Open - Not Contacted,Retail,Warm,Nuremberg,Germany,2026-03-08
+Olga,Meyer,Spree Solutions (Lead 468),olga.meyer.lead467@example.com,Phone Inquiry,Open - Not Contacted,Technology,Hot,Hamburg,Germany,2026-10-18
+Ines,Neumann,Nova Digital (Lead 469),ines.neumann.lead468@example.com,Web,Working - Contacted,Energy,Cold,Dresden,Germany,2025-02-06
+Jonas,Weber,Orion Services (Lead 470),jonas.weber.lead469@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Warm,Essen,Germany,2025-08-14
+Ben,Neumann,Rhein Handel (Lead 471),ben.neumann.lead470@example.com,Email Campaign,Open - Not Contacted,Transportation,Warm,Nuremberg,Germany,2026-04-12
+Rita,Koch,Linea Systems (Lead 472),rita.koch.lead471@example.com,Phone Inquiry,Closed - Not Converted,Construction,Cold,Leipzig,Germany,2025-11-27
+David,Wagner,Ost Systems (Lead 473),david.wagner.lead472@example.com,Phone Inquiry,Closed - Not Converted,Construction,Warm,Dresden,Germany,2026-04-14
+Tina,Richter,Optima Technik (Lead 474),tina.richter.lead473@example.com,Trade Show,Closed - Not Converted,Construction,Warm,Hamburg,Germany,2026-06-13
+Ines,Hoffmann,Corvus Technik (Lead 475),ines.hoffmann.lead474@example.com,Partner Referral,Closed - Not Converted,Retail,Cold,Hamburg,Germany,2026-09-23
+Sven,Demo,West Werke (Lead 476),sven.demo.lead475@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Hot,Nuremberg,Germany,2025-02-15
+Rita,Probe,Aurum Solutions (Lead 477),rita.probe.lead476@example.com,Partner Referral,Closed - Not Converted,Hospitality,Cold,Düsseldorf,Germany,2026-01-19
+Felix,Richter,Elbe Consulting (Lead 478),felix.richter.lead477@example.com,Web,Closed - Not Converted,Hospitality,Warm,Essen,Germany,2025-12-21
+Lukas,Weber,Rhein Services (Lead 479),lukas.weber.lead478@example.com,Web,Closed - Not Converted,Hospitality,Warm,Düsseldorf,Germany,2025-03-28
+Clara,Weber,Linea Werke (Lead 480),clara.weber.lead479@example.com,Web,Closed - Not Converted,Retail,Cold,Nuremberg,Germany,2025-12-06
+Elena,Neumann,Elbe Solutions (Lead 481),elena.neumann.lead480@example.com,Web,Closed - Not Converted,Technology,Hot,Hamburg,Germany,2025-05-22
+Nico,Weber,Spree Group (Lead 482),nico.weber.lead481@example.com,Trade Show,Working - Contacted,Technology,Hot,Essen,Germany,2026-04-19
+Hans,Modell,Prima Werke (Lead 483),hans.modell.lead482@example.com,LinkedIn,Working - Contacted,Technology,Warm,Bremen,Germany,2025-09-03
+Jonas,Beispiel,Terra Group (Lead 484),jonas.beispiel.lead483@example.com,LinkedIn,Working - Contacted,Retail,Hot,Nuremberg,Germany,2025-10-03
+Mara,Koch,Terra Systems (Lead 485),mara.koch.lead484@example.com,Email Campaign,Open - Not Contacted,Healthcare,Cold,Hamburg,Germany,2026-10-15
+Willi,Muster,Alpha Digital (Lead 486),willi.muster.lead485@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Cold,Cologne,Germany,2026-01-10
+Tina,Probe,Ost Systems (Lead 487),tina.probe.lead486@example.com,LinkedIn,Working - Contacted,Technology,Warm,Dresden,Germany,2026-08-03
+Clara,Neumann,Nord Services (Lead 488),clara.neumann.lead487@example.com,LinkedIn,Working - Contacted,Finance,Warm,Leipzig,Germany,2025-08-16
+Katrin,Beispiel,Ost Systems (Lead 489),katrin.beispiel.lead488@example.com,Email Campaign,Closed - Not Converted,Hospitality,Warm,Cologne,Germany,2025-05-19
+Ines,Schmidt,Elbe Technik (Lead 490),ines.schmidt.lead489@example.com,Web,Working - Contacted,Technology,Warm,Bremen,Germany,2026-06-25
+Jonas,Becker,Vita Services (Lead 491),jonas.becker.lead490@example.com,LinkedIn,Closed - Not Converted,Transportation,Cold,Leipzig,Germany,2025-09-17
+Zoe,Richter,Atlas Werke (Lead 492),zoe.richter.lead491@example.com,Email Campaign,Working - Contacted,Retail,Warm,Nuremberg,Germany,2026-06-28
+Willi,Probe,Main Group (Lead 493),willi.probe.lead492@example.com,Trade Show,Working - Contacted,Construction,Hot,Essen,Germany,2026-06-21
+Olga,Demo,Corvus Logistik (Lead 494),olga.demo.lead493@example.com,Phone Inquiry,Closed - Not Converted,Retail,Cold,Stuttgart,Germany,2025-05-01
+Clara,Modell,Atlas Technik (Lead 495),clara.modell.lead494@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Düsseldorf,Germany,2026-06-12
+Ben,Vorlage,Brevo Handel (Lead 496),ben.vorlage.lead495@example.com,Trade Show,Working - Contacted,Transportation,Warm,Cologne,Germany,2026-08-12
+Zoe,Koch,Optima Systems (Lead 497),zoe.koch.lead496@example.com,Web,Closed - Not Converted,Retail,Cold,Essen,Germany,2025-01-25
+Clara,Demo,Delta Technik (Lead 498),clara.demo.lead497@example.com,Partner Referral,Closed - Not Converted,Healthcare,Warm,Berlin,Germany,2026-03-02
+Willi,Probe,Helio Logistik (Lead 499),willi.probe.lead498@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Hot,Stuttgart,Germany,2025-05-14
+Anna,Klein,West Solutions (Lead 500),anna.klein.lead499@example.com,Web,Open - Not Contacted,Transportation,Warm,Munich,Germany,2026-02-20
+Nico,Schmidt,Spree Digital (Lead 501),nico.schmidt.lead500@example.com,Web,Working - Contacted,Construction,Cold,Essen,Germany,2025-11-18
+Felix,Probe,Linea Services (Lead 502),felix.probe.lead501@example.com,Phone Inquiry,Closed - Not Converted,Technology,Cold,Leipzig,Germany,2026-07-26
+Ben,Demo,Delta Logistik (Lead 503),ben.demo.lead502@example.com,Trade Show,Closed - Not Converted,Transportation,Warm,Leipzig,Germany,2025-04-16
+Rita,Wagner,Rhein Services (Lead 504),rita.wagner.lead503@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Berlin,Germany,2025-05-12
+Katrin,Fischer,Ost Solutions (Lead 505),katrin.fischer.lead504@example.com,Partner Referral,Closed - Not Converted,Hospitality,Cold,Cologne,Germany,2025-06-14
+David,Demo,Elbe Digital (Lead 506),david.demo.lead505@example.com,Email Campaign,Closed - Not Converted,Finance,Cold,Hannover,Germany,2026-01-23
+Zoe,Wolf,Main Solutions (Lead 507),zoe.wolf.lead506@example.com,Web,Closed - Not Converted,Retail,Hot,Essen,Germany,2025-03-25
+Felix,Schmidt,Atlas Consulting (Lead 508),felix.schmidt.lead507@example.com,Trade Show,Closed - Not Converted,Transportation,Cold,Dresden,Germany,2026-01-04
+David,Vorlage,Atlas Werke (Lead 509),david.vorlage.lead508@example.com,Partner Referral,Closed - Not Converted,Technology,Cold,Düsseldorf,Germany,2025-02-24
+Elena,Neumann,Corvus Digital (Lead 510),elena.neumann.lead509@example.com,Trade Show,Closed - Not Converted,Hospitality,Cold,Leipzig,Germany,2026-10-03
+David,Weber,Helio Handel (Lead 511),david.weber.lead510@example.com,Trade Show,Open - Not Contacted,Technology,Warm,Stuttgart,Germany,2026-10-25
+Felix,Muster,West Group (Lead 512),felix.muster.lead511@example.com,LinkedIn,Working - Contacted,Retail,Cold,Berlin,Germany,2026-06-13
+Ines,Becker,West Logistik (Lead 513),ines.becker.lead512@example.com,Web,Closed - Not Converted,Construction,Cold,Berlin,Germany,2025-10-04
+Mara,Neumann,Ost Systems (Lead 514),mara.neumann.lead513@example.com,Trade Show,Closed - Not Converted,Energy,Cold,Essen,Germany,2026-01-16
+Mara,Probe,Atlas Digital (Lead 515),mara.probe.lead514@example.com,Web,Closed - Not Converted,Retail,Warm,Berlin,Germany,2025-10-01
+Lukas,Demo,Delta Logistik (Lead 516),lukas.demo.lead515@example.com,LinkedIn,Working - Contacted,Energy,Warm,Hannover,Germany,2025-10-13
+Jonas,Wagner,Corvus Solutions (Lead 517),jonas.wagner.lead516@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Hot,Düsseldorf,Germany,2026-03-02
+Felix,Richter,Beta Solutions (Lead 518),felix.richter.lead517@example.com,LinkedIn,Working - Contacted,Finance,Cold,Berlin,Germany,2026-10-16
+Lukas,Beispiel,Brevo Werke (Lead 519),lukas.beispiel.lead518@example.com,Web,Working - Contacted,Energy,Cold,Cologne,Germany,2026-04-25
+Greta,Koch,Beta Werke (Lead 520),greta.koch.lead519@example.com,Partner Referral,Working - Contacted,Education,Cold,Hannover,Germany,2025-07-15
+Jonas,Becker,Optima Werke (Lead 521),jonas.becker.lead520@example.com,Web,Closed - Not Converted,Hospitality,Warm,Stuttgart,Germany,2025-09-08
+Anna,Hoffmann,Nord Werke (Lead 522),anna.hoffmann.lead521@example.com,LinkedIn,Working - Contacted,Retail,Cold,Bremen,Germany,2025-06-11
+Nico,Neumann,Vita Systems (Lead 523),nico.neumann.lead522@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Hot,Hannover,Germany,2026-02-25
+Jonas,Klein,Helio Werke (Lead 524),jonas.klein.lead523@example.com,LinkedIn,Working - Contacted,Energy,Warm,Düsseldorf,Germany,2025-05-11
+Olga,Muster,Orion Group (Lead 525),olga.muster.lead524@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Bremen,Germany,2026-06-14
+Uwe,Fischer,Süd Group (Lead 526),uwe.fischer.lead525@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Berlin,Germany,2025-10-24
+Clara,Probe,Terra Technik (Lead 527),clara.probe.lead526@example.com,Trade Show,Open - Not Contacted,Energy,Cold,Essen,Germany,2026-10-24
+Ines,Hoffmann,Süd Services (Lead 528),ines.hoffmann.lead527@example.com,Email Campaign,Working - Contacted,Healthcare,Cold,Dresden,Germany,2025-12-03
+Sven,Fischer,Terra Technik (Lead 529),sven.fischer.lead528@example.com,LinkedIn,Open - Not Contacted,Education,Warm,Dresden,Germany,2026-07-21
+Willi,Vorlage,Nord Consulting (Lead 530),willi.vorlage.lead529@example.com,Web,Working - Contacted,Hospitality,Hot,Stuttgart,Germany,2026-09-07
+David,Meyer,Süd Services (Lead 531),david.meyer.lead530@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Hamburg,Germany,2026-07-02
+Yara,Meyer,Optima Logistik (Lead 532),yara.meyer.lead531@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Bremen,Germany,2025-08-10
+Yara,Klein,Vita Werke (Lead 533),yara.klein.lead532@example.com,Email Campaign,Closed - Not Converted,Healthcare,Cold,Leipzig,Germany,2025-10-05
+Nico,Wagner,Optima Logistik (Lead 534),nico.wagner.lead533@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Stuttgart,Germany,2026-08-22
+Ben,Hoffmann,Rhein Logistik (Lead 535),ben.hoffmann.lead534@example.com,Email Campaign,Closed - Not Converted,Healthcare,Cold,Hannover,Germany,2026-02-03
+Felix,Richter,Atlas Technik (Lead 536),felix.richter.lead535@example.com,Partner Referral,Closed - Not Converted,Transportation,Warm,Nuremberg,Germany,2025-04-26
+Lukas,Fischer,Nova Werke (Lead 537),lukas.fischer.lead536@example.com,Web,Working - Contacted,Construction,Hot,Leipzig,Germany,2025-06-26
+Mara,Koch,Aurum Systems (Lead 538),mara.koch.lead537@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2025-09-01
+Mara,Vorlage,Linea Handel (Lead 539),mara.vorlage.lead538@example.com,Email Campaign,Open - Not Contacted,Retail,Cold,Essen,Germany,2026-08-15
+Hans,Becker,Alpha Systems (Lead 540),hans.becker.lead539@example.com,Web,Closed - Not Converted,Healthcare,Cold,Stuttgart,Germany,2025-05-12
+Zoe,Klein,Linea Digital (Lead 541),zoe.klein.lead540@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Düsseldorf,Germany,2026-09-20
+Greta,Becker,Main Technik (Lead 542),greta.becker.lead541@example.com,LinkedIn,Working - Contacted,Education,Cold,Munich,Germany,2025-03-18
+Lukas,Richter,Nord Logistik (Lead 543),lukas.richter.lead542@example.com,Phone Inquiry,Closed - Not Converted,Retail,Hot,Bremen,Germany,2026-04-03
+Ben,Beispiel,Helio Group (Lead 544),ben.beispiel.lead543@example.com,Email Campaign,Closed - Not Converted,Energy,Cold,Bremen,Germany,2025-12-16
+Elena,Vorlage,Nova Solutions (Lead 545),elena.vorlage.lead544@example.com,Web,Closed - Not Converted,Construction,Warm,Nuremberg,Germany,2025-11-01
+Hans,Demo,Delta Logistik (Lead 546),hans.demo.lead545@example.com,Trade Show,Closed - Not Converted,Construction,Cold,Bremen,Germany,2025-08-21
+Lukas,Hoffmann,Terra Logistik (Lead 547),lukas.hoffmann.lead546@example.com,Partner Referral,Closed - Not Converted,Manufacturing,Warm,Munich,Germany,2025-08-17
+Ines,Wagner,Vita Technik (Lead 548),ines.wagner.lead547@example.com,LinkedIn,Open - Not Contacted,Hospitality,Cold,Hannover,Germany,2025-05-02
+Yara,Meyer,Vita Technik (Lead 549),yara.meyer.lead548@example.com,Web,Closed - Not Converted,Hospitality,Cold,Hamburg,Germany,2025-05-13
+Lukas,Klein,Beta Group (Lead 550),lukas.klein.lead549@example.com,LinkedIn,Working - Contacted,Hospitality,Warm,Düsseldorf,Germany,2026-05-21
+Willi,Wolf,Main Consulting (Lead 551),willi.wolf.lead550@example.com,Partner Referral,Working - Contacted,Finance,Hot,Cologne,Germany,2025-02-19
+Nico,Klein,Optima Services (Lead 552),nico.klein.lead551@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Bremen,Germany,2025-08-24
+Paul,Wolf,Prima Solutions (Lead 553),paul.wolf.lead552@example.com,Partner Referral,Closed - Not Converted,Finance,Warm,Essen,Germany,2026-03-26
+Felix,Schmidt,Rhein Logistik (Lead 554),felix.schmidt.lead553@example.com,Email Campaign,Working - Contacted,Construction,Cold,Bremen,Germany,2026-03-06
+Sven,Richter,West Services (Lead 555),sven.richter.lead554@example.com,Trade Show,Closed - Not Converted,Manufacturing,Cold,Dresden,Germany,2026-01-09
+Hans,Beispiel,Zenit Handel (Lead 556),hans.beispiel.lead555@example.com,Trade Show,Closed - Not Converted,Transportation,Warm,Cologne,Germany,2026-06-09
+Uwe,Becker,Optima Services (Lead 557),uwe.becker.lead556@example.com,Web,Closed - Not Converted,Technology,Cold,Leipzig,Germany,2025-01-18
+Willi,Klein,Vita Services (Lead 558),willi.klein.lead557@example.com,Web,Working - Contacted,Technology,Warm,Bremen,Germany,2025-05-01
+Felix,Meyer,Nord Werke (Lead 559),felix.meyer.lead558@example.com,Web,Working - Contacted,Construction,Hot,Munich,Germany,2026-02-28
+Mara,Meyer,Linea Systems (Lead 560),mara.meyer.lead559@example.com,Phone Inquiry,Closed - Not Converted,Retail,Warm,Düsseldorf,Germany,2026-09-25
+Nico,Neumann,Delta Werke (Lead 561),nico.neumann.lead560@example.com,LinkedIn,Closed - Not Converted,Retail,Hot,Nuremberg,Germany,2026-07-07
+Tina,Wolf,Ost Werke (Lead 562),tina.wolf.lead561@example.com,Phone Inquiry,Closed - Not Converted,Retail,Warm,Düsseldorf,Germany,2025-07-20
+Yara,Meyer,Süd Werke (Lead 563),yara.meyer.lead562@example.com,Web,Open - Not Contacted,Construction,Hot,Berlin,Germany,2025-05-16
+Greta,Muster,Optima Handel (Lead 564),greta.muster.lead563@example.com,Email Campaign,Closed - Not Converted,Healthcare,Warm,Hannover,Germany,2025-09-15
+Felix,Meyer,Main Digital (Lead 565),felix.meyer.lead564@example.com,Partner Referral,Open - Not Contacted,Finance,Cold,Munich,Germany,2025-09-11
+Tina,Becker,Aurum Services (Lead 566),tina.becker.lead565@example.com,Phone Inquiry,Working - Contacted,Technology,Hot,Bremen,Germany,2026-05-14
+Anna,Wagner,Brevo Handel (Lead 567),anna.wagner.lead566@example.com,Web,Open - Not Contacted,Retail,Cold,Hannover,Germany,2025-07-19
+Greta,Muster,Terra Digital (Lead 568),greta.muster.lead567@example.com,LinkedIn,Closed - Not Converted,Finance,Hot,Munich,Germany,2026-03-03
+Vera,Probe,Brevo Solutions (Lead 569),vera.probe.lead568@example.com,Web,Working - Contacted,Healthcare,Warm,Hannover,Germany,2026-08-19
+Greta,Muster,Vita Handel (Lead 570),greta.muster.lead569@example.com,Email Campaign,Closed - Not Converted,Technology,Hot,Stuttgart,Germany,2026-03-15
+Jonas,Muster,Aurum Logistik (Lead 571),jonas.muster.lead570@example.com,Email Campaign,Closed - Not Converted,Retail,Cold,Berlin,Germany,2025-04-07
+Willi,Klein,Optima Consulting (Lead 572),willi.klein.lead571@example.com,LinkedIn,Open - Not Contacted,Retail,Warm,Cologne,Germany,2026-05-12
+Zoe,Weber,Delta Technik (Lead 573),zoe.weber.lead572@example.com,Partner Referral,Open - Not Contacted,Education,Hot,Stuttgart,Germany,2025-02-03
+Elena,Probe,Brevo Services (Lead 574),elena.probe.lead573@example.com,Web,Open - Not Contacted,Manufacturing,Warm,Düsseldorf,Germany,2026-09-09
+Jonas,Becker,Terra Systems (Lead 575),jonas.becker.lead574@example.com,Web,Closed - Not Converted,Healthcare,Cold,Berlin,Germany,2025-07-14
+David,Modell,Helio Handel (Lead 576),david.modell.lead575@example.com,LinkedIn,Working - Contacted,Manufacturing,Warm,Düsseldorf,Germany,2025-01-13
+Vera,Hoffmann,Helio Digital (Lead 577),vera.hoffmann.lead576@example.com,LinkedIn,Working - Contacted,Energy,Warm,Essen,Germany,2026-07-18
+Clara,Schmidt,Elbe Group (Lead 578),clara.schmidt.lead577@example.com,Trade Show,Open - Not Contacted,Technology,Cold,Stuttgart,Germany,2025-08-06
+Anna,Probe,Prima Logistik (Lead 579),anna.probe.lead578@example.com,Web,Working - Contacted,Transportation,Cold,Bremen,Germany,2026-07-08
+Lukas,Richter,Zenit Handel (Lead 580),lukas.richter.lead579@example.com,Web,Working - Contacted,Technology,Cold,Stuttgart,Germany,2026-05-21
+Mara,Richter,West Digital (Lead 581),mara.richter.lead580@example.com,LinkedIn,Working - Contacted,Transportation,Hot,Nuremberg,Germany,2025-09-05
+Uwe,Vorlage,Süd Consulting (Lead 582),uwe.vorlage.lead581@example.com,Partner Referral,Closed - Not Converted,Retail,Warm,Stuttgart,Germany,2025-09-25
+Yara,Demo,West Werke (Lead 583),yara.demo.lead582@example.com,Web,Working - Contacted,Retail,Warm,Cologne,Germany,2026-08-08
+Felix,Richter,Elbe Consulting (Lead 584),felix.richter.lead583@example.com,LinkedIn,Working - Contacted,Manufacturing,Hot,Stuttgart,Germany,2025-04-19
+Olga,Demo,Linea Group (Lead 585),olga.demo.lead584@example.com,Phone Inquiry,Closed - Not Converted,Education,Cold,Cologne,Germany,2026-02-10
+Greta,Richter,Elbe Digital (Lead 586),greta.richter.lead585@example.com,Email Campaign,Closed - Not Converted,Finance,Warm,Stuttgart,Germany,2026-02-08
+Nico,Klein,Terra Werke (Lead 587),nico.klein.lead586@example.com,Email Campaign,Working - Contacted,Hospitality,Cold,Essen,Germany,2025-01-09
+Katrin,Schmidt,Brevo Services (Lead 588),katrin.schmidt.lead587@example.com,Trade Show,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2026-03-22
+Tina,Klein,Orion Systems (Lead 589),tina.klein.lead588@example.com,Trade Show,Working - Contacted,Construction,Cold,Dresden,Germany,2025-08-23
+Vera,Muster,Zenit Consulting (Lead 590),vera.muster.lead589@example.com,Trade Show,Closed - Not Converted,Technology,Warm,Berlin,Germany,2026-02-03
+Ben,Meyer,Orion Solutions (Lead 591),ben.meyer.lead590@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Nuremberg,Germany,2025-05-09
+Yara,Muster,Helio Consulting (Lead 592),yara.muster.lead591@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Munich,Germany,2026-04-19
+Sven,Vorlage,Alpha Systems (Lead 593),sven.vorlage.lead592@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Hot,Hamburg,Germany,2026-02-05
+Paul,Wolf,Brevo Logistik (Lead 594),paul.wolf.lead593@example.com,Partner Referral,Closed - Not Converted,Retail,Warm,Berlin,Germany,2025-12-01
+Katrin,Modell,Main Consulting (Lead 595),katrin.modell.lead594@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Düsseldorf,Germany,2026-04-24
+Mara,Richter,Nova Werke (Lead 596),mara.richter.lead595@example.com,LinkedIn,Working - Contacted,Manufacturing,Warm,Dresden,Germany,2025-10-14
+Willi,Vorlage,Brevo Services (Lead 597),willi.vorlage.lead596@example.com,Web,Closed - Not Converted,Technology,Cold,Stuttgart,Germany,2025-01-07
+Uwe,Hoffmann,Helio Systems (Lead 598),uwe.hoffmann.lead597@example.com,Web,Closed - Not Converted,Hospitality,Cold,Essen,Germany,2026-02-04
+Ines,Probe,Ost Group (Lead 599),ines.probe.lead598@example.com,Web,Open - Not Contacted,Retail,Warm,Hamburg,Germany,2026-03-16
+David,Neumann,Linea Group (Lead 600),david.neumann.lead599@example.com,Trade Show,Closed - Not Converted,Manufacturing,Warm,Dresden,Germany,2025-10-25
+Rita,Probe,Corvus Solutions (Lead 601),rita.probe.lead600@example.com,LinkedIn,Working - Contacted,Healthcare,Warm,Dresden,Germany,2026-04-23
+Anna,Hoffmann,Nord Technik (Lead 602),anna.hoffmann.lead601@example.com,Phone Inquiry,Open - Not Contacted,Technology,Cold,Bremen,Germany,2026-10-20
+Lukas,Modell,Atlas Systems (Lead 603),lukas.modell.lead602@example.com,Partner Referral,Closed - Not Converted,Energy,Warm,Cologne,Germany,2026-07-08
+Hans,Klein,Süd Systems (Lead 604),hans.klein.lead603@example.com,Web,Open - Not Contacted,Manufacturing,Warm,Munich,Germany,2026-10-09
+Yara,Klein,Rhein Consulting (Lead 605),yara.klein.lead604@example.com,Web,Open - Not Contacted,Transportation,Hot,Düsseldorf,Germany,2025-03-16
+Sven,Wolf,Ost Werke (Lead 606),sven.wolf.lead605@example.com,Email Campaign,Working - Contacted,Education,Cold,Düsseldorf,Germany,2026-04-26
+Clara,Neumann,Optima Digital (Lead 607),clara.neumann.lead606@example.com,Email Campaign,Closed - Not Converted,Transportation,Warm,Hannover,Germany,2026-01-01
+Clara,Fischer,Linea Logistik (Lead 608),clara.fischer.lead607@example.com,Web,Working - Contacted,Retail,Warm,Hannover,Germany,2025-12-26
+Jonas,Becker,Delta Services (Lead 609),jonas.becker.lead608@example.com,LinkedIn,Open - Not Contacted,Healthcare,Cold,Essen,Germany,2025-08-06
+Rita,Fischer,West Group (Lead 610),rita.fischer.lead609@example.com,Phone Inquiry,Closed - Not Converted,Retail,Warm,Leipzig,Germany,2025-04-21
+Elena,Hoffmann,Rhein Digital (Lead 611),elena.hoffmann.lead610@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Hot,Düsseldorf,Germany,2025-03-20
+Ines,Becker,Zenit Consulting (Lead 612),ines.becker.lead611@example.com,LinkedIn,Closed - Not Converted,Energy,Cold,Cologne,Germany,2025-06-27
+Felix,Becker,Nova Digital (Lead 613),felix.becker.lead612@example.com,Trade Show,Working - Contacted,Energy,Cold,Düsseldorf,Germany,2025-07-22
+Rita,Fischer,Vita Services (Lead 614),rita.fischer.lead613@example.com,LinkedIn,Working - Contacted,Transportation,Cold,Düsseldorf,Germany,2025-06-24
+Jonas,Probe,Brevo Solutions (Lead 615),jonas.probe.lead614@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Düsseldorf,Germany,2025-12-22
+Ben,Becker,Linea Solutions (Lead 616),ben.becker.lead615@example.com,Email Campaign,Working - Contacted,Hospitality,Cold,Nuremberg,Germany,2026-10-11
+Clara,Wagner,West Group (Lead 617),clara.wagner.lead616@example.com,Phone Inquiry,Working - Contacted,Retail,Warm,Bremen,Germany,2025-05-25
+Ben,Beispiel,Atlas Group (Lead 618),ben.beispiel.lead617@example.com,LinkedIn,Closed - Not Converted,Retail,Warm,Cologne,Germany,2025-02-11
+Jonas,Koch,Spree Werke (Lead 619),jonas.koch.lead618@example.com,Trade Show,Closed - Not Converted,Technology,Warm,Bremen,Germany,2025-07-12
+Mara,Weber,Prima Technik (Lead 620),mara.weber.lead619@example.com,Partner Referral,Working - Contacted,Transportation,Hot,Düsseldorf,Germany,2026-10-15
+Tina,Modell,Delta Handel (Lead 621),tina.modell.lead620@example.com,Email Campaign,Open - Not Contacted,Finance,Cold,Leipzig,Germany,2026-06-27
+Tina,Schmidt,Nord Services (Lead 622),tina.schmidt.lead621@example.com,Partner Referral,Closed - Not Converted,Technology,Warm,Bremen,Germany,2025-05-26
+Zoe,Muster,Ost Digital (Lead 623),zoe.muster.lead622@example.com,Trade Show,Open - Not Contacted,Technology,Hot,Dresden,Germany,2026-10-28
+Lukas,Probe,Süd Technik (Lead 624),lukas.probe.lead623@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2026-01-27
+Ben,Vorlage,Rhein Handel (Lead 625),ben.vorlage.lead624@example.com,Email Campaign,Working - Contacted,Technology,Cold,Essen,Germany,2025-08-07
+Lukas,Probe,Corvus Group (Lead 626),lukas.probe.lead625@example.com,Web,Working - Contacted,Manufacturing,Hot,Munich,Germany,2026-06-13
+Sven,Weber,Linea Digital (Lead 627),sven.weber.lead626@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Stuttgart,Germany,2025-07-19
+Ben,Modell,Rhein Consulting (Lead 628),ben.modell.lead627@example.com,LinkedIn,Closed - Not Converted,Finance,Warm,Nuremberg,Germany,2026-01-28
+Zoe,Schmidt,Helio Solutions (Lead 629),zoe.schmidt.lead628@example.com,Email Campaign,Open - Not Contacted,Transportation,Warm,Hannover,Germany,2026-09-24
+Lukas,Schmidt,Spree Logistik (Lead 630),lukas.schmidt.lead629@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Berlin,Germany,2025-11-09
+Jonas,Demo,Terra Werke (Lead 631),jonas.demo.lead630@example.com,Web,Working - Contacted,Retail,Hot,Stuttgart,Germany,2025-08-27
+Greta,Demo,Helio Technik (Lead 632),greta.demo.lead631@example.com,Phone Inquiry,Closed - Not Converted,Hospitality,Warm,Cologne,Germany,2025-11-15
+Nico,Modell,Corvus Services (Lead 633),nico.modell.lead632@example.com,Web,Closed - Not Converted,Hospitality,Cold,Düsseldorf,Germany,2026-03-19
+Mara,Demo,Elbe Digital (Lead 634),mara.demo.lead633@example.com,Phone Inquiry,Closed - Not Converted,Healthcare,Warm,Düsseldorf,Germany,2026-08-20
+Paul,Koch,Ost Digital (Lead 635),paul.koch.lead634@example.com,LinkedIn,Open - Not Contacted,Retail,Hot,Hannover,Germany,2025-09-21
+Yara,Beispiel,Main Solutions (Lead 636),yara.beispiel.lead635@example.com,Web,Working - Contacted,Retail,Warm,Dresden,Germany,2025-12-06
+Zoe,Probe,Delta Consulting (Lead 637),zoe.probe.lead636@example.com,Web,Closed - Not Converted,Education,Warm,Essen,Germany,2025-01-12
+Katrin,Beispiel,Elbe Systems (Lead 638),katrin.beispiel.lead637@example.com,Email Campaign,Open - Not Contacted,Healthcare,Warm,Düsseldorf,Germany,2026-01-18
+Paul,Hoffmann,Brevo Services (Lead 639),paul.hoffmann.lead638@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Dresden,Germany,2025-04-28
+Olga,Meyer,Nova Logistik (Lead 640),olga.meyer.lead639@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Hamburg,Germany,2025-08-16
+Rita,Wagner,Elbe Technik (Lead 641),rita.wagner.lead640@example.com,Web,Closed - Not Converted,Transportation,Hot,Stuttgart,Germany,2025-12-01
+Olga,Fischer,Zenit Werke (Lead 642),olga.fischer.lead641@example.com,Partner Referral,Closed - Not Converted,Retail,Cold,Berlin,Germany,2026-03-28
+Vera,Vorlage,Nord Handel (Lead 643),vera.vorlage.lead642@example.com,Partner Referral,Open - Not Contacted,Construction,Cold,Cologne,Germany,2025-06-10
+Rita,Vorlage,Ost Werke (Lead 644),rita.vorlage.lead643@example.com,Email Campaign,Working - Contacted,Finance,Cold,Hannover,Germany,2026-10-24
+Zoe,Richter,Optima Werke (Lead 645),zoe.richter.lead644@example.com,Web,Closed - Not Converted,Construction,Warm,Berlin,Germany,2025-03-03
+Ines,Beispiel,Süd Services (Lead 646),ines.beispiel.lead645@example.com,Email Campaign,Working - Contacted,Retail,Warm,Bremen,Germany,2025-07-24
+Mara,Fischer,Corvus Solutions (Lead 647),mara.fischer.lead646@example.com,Trade Show,Closed - Not Converted,Manufacturing,Warm,Dresden,Germany,2026-02-20
+Felix,Weber,Aurum Logistik (Lead 648),felix.weber.lead647@example.com,Email Campaign,Open - Not Contacted,Education,Warm,Berlin,Germany,2026-04-23
+Yara,Schmidt,Brevo Group (Lead 649),yara.schmidt.lead648@example.com,Email Campaign,Closed - Not Converted,Technology,Hot,Stuttgart,Germany,2025-04-24
+Yara,Neumann,Delta Werke (Lead 650),yara.neumann.lead649@example.com,LinkedIn,Working - Contacted,Retail,Cold,Dresden,Germany,2025-06-12
+David,Klein,Alpha Consulting (Lead 651),david.klein.lead650@example.com,Partner Referral,Closed - Not Converted,Retail,Cold,Hamburg,Germany,2026-04-27
+Hans,Weber,Spree Systems (Lead 652),hans.weber.lead651@example.com,Trade Show,Closed - Not Converted,Technology,Cold,Berlin,Germany,2025-06-17
+Tina,Neumann,Beta Consulting (Lead 653),tina.neumann.lead652@example.com,LinkedIn,Working - Contacted,Healthcare,Warm,Hamburg,Germany,2025-09-03
+Elena,Weber,Spree Handel (Lead 654),elena.weber.lead653@example.com,Partner Referral,Working - Contacted,Hospitality,Warm,Hannover,Germany,2025-08-08
+Lukas,Hoffmann,Helio Consulting (Lead 655),lukas.hoffmann.lead654@example.com,Trade Show,Closed - Not Converted,Technology,Hot,Hannover,Germany,2026-03-05
+Lukas,Muster,West Group (Lead 656),lukas.muster.lead655@example.com,Email Campaign,Working - Contacted,Technology,Warm,Munich,Germany,2026-07-20
+Greta,Neumann,Corvus Werke (Lead 657),greta.neumann.lead656@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Hamburg,Germany,2025-11-11
+Lukas,Weber,Optima Werke (Lead 658),lukas.weber.lead657@example.com,LinkedIn,Open - Not Contacted,Technology,Cold,Essen,Germany,2025-11-24
+Willi,Wagner,Nova Consulting (Lead 659),willi.wagner.lead658@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Warm,Düsseldorf,Germany,2025-12-07
+Katrin,Richter,Brevo Solutions (Lead 660),katrin.richter.lead659@example.com,Web,Closed - Not Converted,Technology,Hot,Berlin,Germany,2025-07-06
+Rita,Klein,Atlas Solutions (Lead 661),rita.klein.lead660@example.com,LinkedIn,Closed - Not Converted,Transportation,Cold,Berlin,Germany,2025-04-03
+Paul,Meyer,Optima Werke (Lead 662),paul.meyer.lead661@example.com,LinkedIn,Working - Contacted,Construction,Cold,Berlin,Germany,2025-10-20
+Katrin,Demo,Alpha Logistik (Lead 663),katrin.demo.lead662@example.com,Email Campaign,Open - Not Contacted,Healthcare,Warm,Hamburg,Germany,2025-10-24
+Katrin,Muster,Ost Group (Lead 664),katrin.muster.lead663@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Bremen,Germany,2025-01-20
+Elena,Weber,Corvus Consulting (Lead 665),elena.weber.lead664@example.com,Phone Inquiry,Working - Contacted,Retail,Cold,Dresden,Germany,2025-05-28
+Paul,Neumann,Zenit Handel (Lead 666),paul.neumann.lead665@example.com,Email Campaign,Open - Not Contacted,Technology,Warm,Nuremberg,Germany,2026-06-24
+Ines,Wolf,Aurum Services (Lead 667),ines.wolf.lead666@example.com,Partner Referral,Closed - Not Converted,Finance,Warm,Dresden,Germany,2025-10-15
+Sven,Modell,Aurum Systems (Lead 668),sven.modell.lead667@example.com,LinkedIn,Open - Not Contacted,Technology,Cold,Cologne,Germany,2025-12-21
+Anna,Schmidt,Nova Logistik (Lead 669),anna.schmidt.lead668@example.com,Phone Inquiry,Closed - Not Converted,Energy,Warm,Stuttgart,Germany,2025-10-15
+Katrin,Modell,Elbe Systems (Lead 670),katrin.modell.lead669@example.com,LinkedIn,Working - Contacted,Manufacturing,Hot,Munich,Germany,2026-04-01
+Tina,Weber,Terra Logistik (Lead 671),tina.weber.lead670@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Hamburg,Germany,2026-07-20
+Katrin,Demo,Spree Services (Lead 672),katrin.demo.lead671@example.com,Partner Referral,Closed - Not Converted,Finance,Hot,Leipzig,Germany,2025-02-22
+Hans,Klein,Main Werke (Lead 673),hans.klein.lead672@example.com,Trade Show,Working - Contacted,Manufacturing,Cold,Hamburg,Germany,2025-02-12
+Vera,Neumann,Rhein Handel (Lead 674),vera.neumann.lead673@example.com,Email Campaign,Working - Contacted,Retail,Cold,Cologne,Germany,2025-10-13
+Olga,Klein,Beta Logistik (Lead 675),olga.klein.lead674@example.com,Trade Show,Working - Contacted,Finance,Cold,Hannover,Germany,2025-03-28
+Nico,Becker,Delta Solutions (Lead 676),nico.becker.lead675@example.com,Web,Open - Not Contacted,Hospitality,Warm,Stuttgart,Germany,2026-08-14
+Tina,Klein,Ost Solutions (Lead 677),tina.klein.lead676@example.com,LinkedIn,Working - Contacted,Finance,Hot,Essen,Germany,2026-08-12
+Yara,Muster,Terra Digital (Lead 678),yara.muster.lead677@example.com,LinkedIn,Open - Not Contacted,Manufacturing,Cold,Berlin,Germany,2026-02-05
+David,Wolf,Aurum Technik (Lead 679),david.wolf.lead678@example.com,Partner Referral,Closed - Not Converted,Construction,Cold,Nuremberg,Germany,2026-01-26
+Felix,Klein,Alpha Logistik (Lead 680),felix.klein.lead679@example.com,LinkedIn,Closed - Not Converted,Retail,Warm,Bremen,Germany,2025-09-16
+Vera,Schmidt,Ost Werke (Lead 681),vera.schmidt.lead680@example.com,Email Campaign,Closed - Not Converted,Retail,Warm,Leipzig,Germany,2025-12-13
+Ines,Klein,Aurum Digital (Lead 682),ines.klein.lead681@example.com,LinkedIn,Open - Not Contacted,Retail,Cold,Bremen,Germany,2026-07-22
+Paul,Fischer,Main Consulting (Lead 683),paul.fischer.lead682@example.com,Email Campaign,Closed - Not Converted,Manufacturing,Warm,Leipzig,Germany,2025-01-28
+Sven,Beispiel,Optima Digital (Lead 684),sven.beispiel.lead683@example.com,Web,Open - Not Contacted,Education,Cold,Essen,Germany,2026-10-10
+Nico,Demo,Orion Werke (Lead 685),nico.demo.lead684@example.com,Partner Referral,Working - Contacted,Technology,Warm,Bremen,Germany,2026-10-22
+Uwe,Wolf,Elbe Werke (Lead 686),uwe.wolf.lead685@example.com,Trade Show,Working - Contacted,Healthcare,Cold,Nuremberg,Germany,2026-09-13
+Uwe,Meyer,Brevo Handel (Lead 687),uwe.meyer.lead686@example.com,Trade Show,Closed - Not Converted,Transportation,Cold,Leipzig,Germany,2025-02-10
+Elena,Richter,Terra Technik (Lead 688),elena.richter.lead687@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Cologne,Germany,2026-03-07
+Mara,Probe,Terra Digital (Lead 689),mara.probe.lead688@example.com,Email Campaign,Closed - Not Converted,Finance,Warm,Essen,Germany,2025-05-18
+Clara,Muster,Elbe Group (Lead 690),clara.muster.lead689@example.com,Web,Open - Not Contacted,Finance,Warm,Essen,Germany,2025-09-04
+Sven,Vorlage,Ost Digital (Lead 691),sven.vorlage.lead690@example.com,Trade Show,Closed - Not Converted,Retail,Cold,Hannover,Germany,2026-03-19
+Yara,Becker,West Handel (Lead 692),yara.becker.lead691@example.com,LinkedIn,Working - Contacted,Technology,Hot,Stuttgart,Germany,2025-09-05
+Uwe,Koch,Vita Systems (Lead 693),uwe.koch.lead692@example.com,Web,Closed - Not Converted,Energy,Cold,Dresden,Germany,2026-07-08
+Sven,Demo,Optima Services (Lead 694),sven.demo.lead693@example.com,Partner Referral,Working - Contacted,Transportation,Warm,Stuttgart,Germany,2025-12-04
+David,Fischer,Spree Handel (Lead 695),david.fischer.lead694@example.com,Web,Closed - Not Converted,Education,Warm,Cologne,Germany,2025-12-06
+Ines,Neumann,Alpha Logistik (Lead 696),ines.neumann.lead695@example.com,Email Campaign,Open - Not Contacted,Retail,Hot,Leipzig,Germany,2026-08-19
+Katrin,Neumann,Helio Handel (Lead 697),katrin.neumann.lead696@example.com,Web,Closed - Not Converted,Retail,Hot,Berlin,Germany,2026-09-25
+Ben,Modell,Terra Consulting (Lead 698),ben.modell.lead697@example.com,LinkedIn,Working - Contacted,Technology,Cold,Munich,Germany,2025-07-15
+Yara,Beispiel,Main Systems (Lead 699),yara.beispiel.lead698@example.com,Email Campaign,Closed - Not Converted,Education,Warm,Bremen,Germany,2025-09-02
+Elena,Wagner,Süd Systems (Lead 700),elena.wagner.lead699@example.com,Email Campaign,Closed - Not Converted,Energy,Warm,Leipzig,Germany,2025-06-16
+Rita,Becker,Delta Werke (Lead 701),rita.becker.lead700@example.com,Web,Closed - Not Converted,Retail,Warm,Stuttgart,Germany,2025-03-19
+Zoe,Weber,Corvus Services (Lead 702),zoe.weber.lead701@example.com,Email Campaign,Closed - Not Converted,Finance,Warm,Munich,Germany,2026-04-06
+Jonas,Wagner,Spree Services (Lead 703),jonas.wagner.lead702@example.com,Trade Show,Working - Contacted,Transportation,Hot,Bremen,Germany,2025-06-11
+Willi,Schmidt,Delta Solutions (Lead 704),willi.schmidt.lead703@example.com,Phone Inquiry,Open - Not Contacted,Finance,Cold,Munich,Germany,2025-02-09
+Uwe,Fischer,Vita Technik (Lead 705),uwe.fischer.lead704@example.com,Web,Working - Contacted,Energy,Cold,Hamburg,Germany,2026-06-18
+Hans,Wolf,Prima Technik (Lead 706),hans.wolf.lead705@example.com,Trade Show,Closed - Not Converted,Hospitality,Cold,Munich,Germany,2026-09-06
+Yara,Meyer,Terra Digital (Lead 707),yara.meyer.lead706@example.com,LinkedIn,Closed - Not Converted,Healthcare,Warm,Hamburg,Germany,2025-04-18
+Zoe,Klein,Elbe Digital (Lead 708),zoe.klein.lead707@example.com,LinkedIn,Open - Not Contacted,Energy,Warm,Cologne,Germany,2026-05-28
+Willi,Beispiel,Elbe Digital (Lead 709),willi.beispiel.lead708@example.com,Web,Closed - Not Converted,Healthcare,Cold,Hamburg,Germany,2025-02-18
+Jonas,Schmidt,Brevo Handel (Lead 710),jonas.schmidt.lead709@example.com,Web,Closed - Not Converted,Finance,Warm,Dresden,Germany,2025-01-27
+Sven,Neumann,Helio Solutions (Lead 711),sven.neumann.lead710@example.com,Email Campaign,Closed - Not Converted,Hospitality,Hot,Stuttgart,Germany,2026-04-06
+Sven,Schmidt,Brevo Solutions (Lead 712),sven.schmidt.lead711@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Munich,Germany,2025-11-24
+Sven,Klein,Prima Digital (Lead 713),sven.klein.lead712@example.com,Email Campaign,Closed - Not Converted,Retail,Cold,Hamburg,Germany,2025-07-08
+Nico,Fischer,Linea Group (Lead 714),nico.fischer.lead713@example.com,Email Campaign,Working - Contacted,Healthcare,Warm,Hannover,Germany,2025-01-07
+Lukas,Beispiel,Alpha Services (Lead 715),lukas.beispiel.lead714@example.com,LinkedIn,Working - Contacted,Construction,Warm,Cologne,Germany,2026-05-01
+Ben,Fischer,Rhein Services (Lead 716),ben.fischer.lead715@example.com,Web,Open - Not Contacted,Technology,Warm,Nuremberg,Germany,2026-09-20
+Sven,Probe,Ost Services (Lead 717),sven.probe.lead716@example.com,Partner Referral,Working - Contacted,Transportation,Hot,Hamburg,Germany,2025-02-08
+Clara,Wagner,Delta Werke (Lead 718),clara.wagner.lead717@example.com,Trade Show,Working - Contacted,Technology,Hot,Cologne,Germany,2026-06-21
+Rita,Modell,West Digital (Lead 719),rita.modell.lead718@example.com,Web,Closed - Not Converted,Retail,Warm,Nuremberg,Germany,2025-10-02
+David,Neumann,Süd Handel (Lead 720),david.neumann.lead719@example.com,Partner Referral,Working - Contacted,Manufacturing,Warm,Berlin,Germany,2026-06-09
+Sven,Hoffmann,West Werke (Lead 721),sven.hoffmann.lead720@example.com,LinkedIn,Closed - Not Converted,Technology,Warm,Leipzig,Germany,2025-06-19
+Felix,Klein,Linea Group (Lead 722),felix.klein.lead721@example.com,LinkedIn,Working - Contacted,Finance,Cold,Nuremberg,Germany,2026-09-16
+Elena,Klein,West Solutions (Lead 723),elena.klein.lead722@example.com,Phone Inquiry,Closed - Not Converted,Education,Hot,Cologne,Germany,2026-02-05
+Anna,Klein,Corvus Handel (Lead 724),anna.klein.lead723@example.com,Trade Show,Working - Contacted,Healthcare,Hot,Hamburg,Germany,2026-09-12
+Ines,Modell,Helio Solutions (Lead 725),ines.modell.lead724@example.com,Web,Working - Contacted,Technology,Cold,Leipzig,Germany,2026-09-19
+David,Demo,Spree Handel (Lead 726),david.demo.lead725@example.com,Web,Open - Not Contacted,Technology,Cold,Dresden,Germany,2025-11-26
+Ines,Koch,Rhein Solutions (Lead 727),ines.koch.lead726@example.com,Web,Closed - Not Converted,Construction,Cold,Essen,Germany,2026-03-23
+Jonas,Schmidt,West Technik (Lead 728),jonas.schmidt.lead727@example.com,LinkedIn,Working - Contacted,Education,Hot,Munich,Germany,2026-04-03
+Tina,Wagner,Brevo Services (Lead 729),tina.wagner.lead728@example.com,Email Campaign,Closed - Not Converted,Technology,Warm,Nuremberg,Germany,2026-07-20
+Zoe,Schmidt,Main Digital (Lead 730),zoe.schmidt.lead729@example.com,Web,Closed - Not Converted,Manufacturing,Hot,Munich,Germany,2026-08-08
+Sven,Beispiel,Elbe Group (Lead 731),sven.beispiel.lead730@example.com,LinkedIn,Open - Not Contacted,Education,Cold,Cologne,Germany,2025-12-05
+Ines,Meyer,Orion Digital (Lead 732),ines.meyer.lead731@example.com,Web,Working - Contacted,Finance,Cold,Leipzig,Germany,2026-04-20
+Yara,Fischer,Süd Technik (Lead 733),yara.fischer.lead732@example.com,Partner Referral,Open - Not Contacted,Technology,Warm,Düsseldorf,Germany,2026-02-08
+Elena,Modell,Atlas Systems (Lead 734),elena.modell.lead733@example.com,Trade Show,Working - Contacted,Manufacturing,Warm,Leipzig,Germany,2025-02-10
+Jonas,Koch,Spree Group (Lead 735),jonas.koch.lead734@example.com,Phone Inquiry,Closed - Not Converted,Transportation,Warm,Hannover,Germany,2026-04-06
+Tina,Weber,Aurum Solutions (Lead 736),tina.weber.lead735@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Düsseldorf,Germany,2025-11-16
+Vera,Wagner,West Solutions (Lead 737),vera.wagner.lead736@example.com,Web,Working - Contacted,Healthcare,Warm,Dresden,Germany,2025-08-06
+Nico,Wolf,Delta Logistik (Lead 738),nico.wolf.lead737@example.com,Web,Closed - Not Converted,Healthcare,Cold,Nuremberg,Germany,2026-03-15
+Paul,Modell,Vita Technik (Lead 739),paul.modell.lead738@example.com,Web,Closed - Not Converted,Hospitality,Hot,Berlin,Germany,2026-05-20
+Zoe,Vorlage,Nova Werke (Lead 740),zoe.vorlage.lead739@example.com,LinkedIn,Closed - Not Converted,Transportation,Warm,Cologne,Germany,2025-07-17
+Jonas,Becker,Süd Services (Lead 741),jonas.becker.lead740@example.com,Phone Inquiry,Open - Not Contacted,Energy,Warm,Bremen,Germany,2026-09-18
+Greta,Becker,Corvus Systems (Lead 742),greta.becker.lead741@example.com,LinkedIn,Working - Contacted,Transportation,Cold,Düsseldorf,Germany,2025-11-21
+Hans,Wolf,Terra Systems (Lead 743),hans.wolf.lead742@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Dresden,Germany,2026-01-18
+Felix,Klein,Beta Technik (Lead 744),felix.klein.lead743@example.com,Phone Inquiry,Closed - Not Converted,Healthcare,Hot,Cologne,Germany,2026-02-19
+Zoe,Wagner,West Technik (Lead 745),zoe.wagner.lead744@example.com,Partner Referral,Working - Contacted,Retail,Cold,Nuremberg,Germany,2026-07-10
+Mara,Wolf,West Digital (Lead 746),mara.wolf.lead745@example.com,Web,Open - Not Contacted,Healthcare,Warm,Hannover,Germany,2025-08-01
+Lukas,Modell,Linea Services (Lead 747),lukas.modell.lead746@example.com,Email Campaign,Closed - Not Converted,Healthcare,Hot,Bremen,Germany,2026-05-23
+Nico,Probe,Nova Technik (Lead 748),nico.probe.lead747@example.com,Phone Inquiry,Working - Contacted,Education,Cold,Hannover,Germany,2026-05-02
+Katrin,Schmidt,Alpha Werke (Lead 749),katrin.schmidt.lead748@example.com,LinkedIn,Open - Not Contacted,Retail,Cold,Cologne,Germany,2025-07-18
+Rita,Beispiel,Atlas Solutions (Lead 750),rita.beispiel.lead749@example.com,Partner Referral,Closed - Not Converted,Retail,Cold,Bremen,Germany,2025-12-05
+Ben,Vorlage,Nova Group (Lead 751),ben.vorlage.lead750@example.com,LinkedIn,Closed - Not Converted,Energy,Warm,Stuttgart,Germany,2025-02-24
+Mara,Beispiel,Linea Technik (Lead 752),mara.beispiel.lead751@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Warm,Nuremberg,Germany,2025-03-15
+Felix,Neumann,Brevo Handel (Lead 753),felix.neumann.lead752@example.com,Web,Closed - Not Converted,Education,Warm,Berlin,Germany,2026-06-13
+Hans,Koch,Alpha Technik (Lead 754),hans.koch.lead753@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Cold,Stuttgart,Germany,2025-02-23
+Lukas,Richter,Helio Werke (Lead 755),lukas.richter.lead754@example.com,Phone Inquiry,Closed - Not Converted,Technology,Warm,Cologne,Germany,2025-04-06
+Sven,Neumann,West Handel (Lead 756),sven.neumann.lead755@example.com,Email Campaign,Working - Contacted,Education,Warm,Berlin,Germany,2026-10-21
+Willi,Koch,Beta Handel (Lead 757),willi.koch.lead756@example.com,Web,Closed - Not Converted,Technology,Hot,Dresden,Germany,2025-05-25
+Lukas,Schmidt,Beta Consulting (Lead 758),lukas.schmidt.lead757@example.com,Web,Closed - Not Converted,Manufacturing,Cold,Hamburg,Germany,2025-03-12
+Sven,Schmidt,Corvus Consulting (Lead 759),sven.schmidt.lead758@example.com,Web,Closed - Not Converted,Technology,Hot,Cologne,Germany,2026-10-03
+Ben,Schmidt,Alpha Systems (Lead 760),ben.schmidt.lead759@example.com,Web,Open - Not Contacted,Transportation,Cold,Nuremberg,Germany,2026-10-24
+Felix,Demo,Elbe Technik (Lead 761),felix.demo.lead760@example.com,Email Campaign,Working - Contacted,Technology,Warm,Munich,Germany,2026-07-03
+Mara,Probe,Nova Digital (Lead 762),mara.probe.lead761@example.com,Trade Show,Closed - Not Converted,Technology,Warm,Leipzig,Germany,2025-12-08
+David,Demo,Ost Technik (Lead 763),david.demo.lead762@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Hamburg,Germany,2026-09-04
+Hans,Wagner,Prima Systems (Lead 764),hans.wagner.lead763@example.com,LinkedIn,Closed - Not Converted,Finance,Cold,Hannover,Germany,2026-07-03
+Hans,Richter,Spree Handel (Lead 765),hans.richter.lead764@example.com,Email Campaign,Working - Contacted,Retail,Hot,Hamburg,Germany,2026-09-19
+Ines,Koch,Brevo Systems (Lead 766),ines.koch.lead765@example.com,Trade Show,Closed - Not Converted,Manufacturing,Warm,Hamburg,Germany,2026-08-15
+Yara,Beispiel,Süd Logistik (Lead 767),yara.beispiel.lead766@example.com,Partner Referral,Open - Not Contacted,Transportation,Hot,Berlin,Germany,2025-11-03
+Lukas,Schmidt,Nova Werke (Lead 768),lukas.schmidt.lead767@example.com,Partner Referral,Closed - Not Converted,Finance,Warm,Leipzig,Germany,2025-03-28
+Tina,Hoffmann,Ost Werke (Lead 769),tina.hoffmann.lead768@example.com,Web,Open - Not Contacted,Education,Hot,Hannover,Germany,2026-03-20
+Yara,Modell,West Handel (Lead 770),yara.modell.lead769@example.com,Trade Show,Closed - Not Converted,Energy,Warm,Munich,Germany,2026-09-18
+Felix,Demo,Atlas Technik (Lead 771),felix.demo.lead770@example.com,Web,Closed - Not Converted,Education,Warm,Hannover,Germany,2025-06-01
+Zoe,Vorlage,Nova Handel (Lead 772),zoe.vorlage.lead771@example.com,Web,Closed - Not Converted,Manufacturing,Warm,Hamburg,Germany,2025-07-07
+Uwe,Richter,Vita Consulting (Lead 773),uwe.richter.lead772@example.com,LinkedIn,Closed - Not Converted,Construction,Warm,Düsseldorf,Germany,2026-02-11
+Mara,Hoffmann,Orion Digital (Lead 774),mara.hoffmann.lead773@example.com,LinkedIn,Open - Not Contacted,Manufacturing,Cold,Leipzig,Germany,2026-06-09
+Olga,Wagner,West Consulting (Lead 775),olga.wagner.lead774@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Hot,Düsseldorf,Germany,2026-04-20
+Nico,Fischer,Nord Technik (Lead 776),nico.fischer.lead775@example.com,Phone Inquiry,Closed - Not Converted,Manufacturing,Cold,Berlin,Germany,2026-03-02
+Elena,Koch,Brevo Solutions (Lead 777),elena.koch.lead776@example.com,Web,Closed - Not Converted,Energy,Cold,Munich,Germany,2025-09-06
+Hans,Richter,Orion Werke (Lead 778),hans.richter.lead777@example.com,Email Campaign,Working - Contacted,Manufacturing,Cold,Dresden,Germany,2025-10-18
+Jonas,Wolf,Vita Handel (Lead 779),jonas.wolf.lead778@example.com,LinkedIn,Closed - Not Converted,Energy,Hot,Dresden,Germany,2025-08-22
+Katrin,Probe,Brevo Werke (Lead 780),katrin.probe.lead779@example.com,Trade Show,Working - Contacted,Technology,Hot,Dresden,Germany,2025-02-17
+Hans,Vorlage,Vita Logistik (Lead 781),hans.vorlage.lead780@example.com,Partner Referral,Working - Contacted,Retail,Warm,Hamburg,Germany,2025-11-02
+Felix,Neumann,Nord Group (Lead 782),felix.neumann.lead781@example.com,Phone Inquiry,Closed - Not Converted,Construction,Cold,Stuttgart,Germany,2025-11-02
+Clara,Richter,Main Group (Lead 783),clara.richter.lead782@example.com,Email Campaign,Closed - Not Converted,Technology,Cold,Stuttgart,Germany,2025-01-26
+Paul,Klein,Prima Handel (Lead 784),paul.klein.lead783@example.com,Partner Referral,Working - Contacted,Healthcare,Cold,Hamburg,Germany,2025-07-03
+Anna,Beispiel,Zenit Consulting (Lead 785),anna.beispiel.lead784@example.com,Email Campaign,Open - Not Contacted,Manufacturing,Cold,Leipzig,Germany,2026-10-09
+David,Wagner,Helio Group (Lead 786),david.wagner.lead785@example.com,LinkedIn,Closed - Not Converted,Manufacturing,Warm,Leipzig,Germany,2025-04-26
+Sven,Hoffmann,Aurum Digital (Lead 787),sven.hoffmann.lead786@example.com,Trade Show,Working - Contacted,Technology,Cold,Düsseldorf,Germany,2026-08-12
+Lukas,Schmidt,Delta Technik (Lead 788),lukas.schmidt.lead787@example.com,Email Campaign,Working - Contacted,Transportation,Warm,Hannover,Germany,2026-04-17
+Olga,Becker,Rhein Consulting (Lead 789),olga.becker.lead788@example.com,LinkedIn,Open - Not Contacted,Energy,Hot,Bremen,Germany,2026-10-08
+Clara,Modell,Süd Logistik (Lead 790),clara.modell.lead789@example.com,Phone Inquiry,Open - Not Contacted,Hospitality,Cold,Essen,Germany,2026-10-21
+Uwe,Modell,Rhein Technik (Lead 791),uwe.modell.lead790@example.com,LinkedIn,Open - Not Contacted,Finance,Warm,Nuremberg,Germany,2025-02-28
+Sven,Becker,Linea Handel (Lead 792),sven.becker.lead791@example.com,Web,Working - Contacted,Technology,Cold,Cologne,Germany,2026-01-19
+Anna,Vorlage,Orion Handel (Lead 793),anna.vorlage.lead792@example.com,LinkedIn,Working - Contacted,Education,Warm,Bremen,Germany,2026-10-05
+Tina,Muster,Beta Systems (Lead 794),tina.muster.lead793@example.com,LinkedIn,Closed - Not Converted,Technology,Hot,Essen,Germany,2025-05-22
+Nico,Klein,Zenit Technik (Lead 795),nico.klein.lead794@example.com,Phone Inquiry,Closed - Not Converted,Energy,Hot,Dresden,Germany,2025-10-03
+Vera,Modell,Zenit Digital (Lead 796),vera.modell.lead795@example.com,Partner Referral,Closed - Not Converted,Retail,Hot,Dresden,Germany,2026-06-04
+Sven,Wagner,Helio Solutions (Lead 797),sven.wagner.lead796@example.com,Trade Show,Closed - Not Converted,Healthcare,Hot,Nuremberg,Germany,2026-02-09
+Willi,Fischer,Beta Systems (Lead 798),willi.fischer.lead797@example.com,LinkedIn,Open - Not Contacted,Retail,Cold,Hamburg,Germany,2025-12-16
+Ben,Demo,Delta Handel (Lead 799),ben.demo.lead798@example.com,Email Campaign,Working - Contacted,Construction,Cold,Cologne,Germany,2026-08-07
+Hans,Hoffmann,Linea Digital (Lead 800),hans.hoffmann.lead799@example.com,Email Campaign,Open - Not Contacted,Transportation,Warm,Berlin,Germany,2026-04-26

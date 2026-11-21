@@ -1,0 +1,11 @@
+metric,value
+accounts,70
+contacts,140
+leads,800
+opportunities,227
+closed_won_count,91
+closed_lost_count,81
+open_count,55
+closed_won_amount,2649700
+open_pipeline_amount,1299800
+win_rate_pct,52.9

@@ -1,0 +1,228 @@
+Name,AccountName,StageName,Amount,CloseDate,LeadSource,Type,Sales_Rep__c,Product_Line__c,Opp_Created_Date__c
+Vita Consulting GmbH - Training (126),Vita Consulting GmbH,Closed Won,9100,2025-01-24,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Training,2025-01-07
+Terra Consulting GmbH - Training (107),Terra Consulting GmbH,Closed Won,2500,2025-02-13,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Training,2025-01-14
+Beta Systems GmbH - Cloud Hosting (151),Beta Systems GmbH,Closed Won,40300,2025-03-20,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-01-24
+Orion Logistik GmbH - Support Plan (154),Orion Logistik GmbH,Closed Won,9000,2025-02-28,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Support Plan,2025-01-26
+Atlas Digital GmbH - Support Plan (191),Atlas Digital GmbH,Closed Won,35700,2025-03-23,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Support Plan,2025-02-02
+Optima Services GmbH - Support Plan (163),Optima Services GmbH,Closed Won,5900,2025-03-10,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Support Plan,2025-02-17
+Brevo Systems GmbH - Training (137),Brevo Systems GmbH,Closed Won,3400,2025-04-05,Existing Customer,Existing Customer - Upgrade,Anna Keller,Training,2025-02-22
+Brevo Services GmbH - Training (187),Brevo Services GmbH,Closed Won,8200,2025-03-25,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Training,2025-02-23
+Main Group GmbH - Cloud Hosting (039),Main Group GmbH,Closed Won,8900,2025-06-18,LinkedIn,New Customer,Tim Vogel,Cloud Hosting,2025-03-03
+Alpha Consulting GmbH - Cloud Hosting (120),Alpha Consulting GmbH,Closed Lost,34500,2025-03-18,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-03-06
+Beta Logistik GmbH - Support Plan (043),Beta Logistik GmbH,Closed Lost,10800,2025-05-09,LinkedIn,New Customer,Anna Keller,Support Plan,2025-03-12
+Prima Consulting GmbH - Analytics Suite (189),Prima Consulting GmbH,Closed Won,24800,2025-03-28,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Analytics Suite,2025-03-15
+Alpha Group GmbH - Analytics Suite (070),Alpha Group GmbH,Closed Won,26800,2025-06-26,Partner Referral,New Customer,Tim Vogel,Analytics Suite,2025-03-18
+Zenit Consulting GmbH - Support Plan (015),Zenit Consulting GmbH,Closed Won,27600,2025-04-30,Partner Referral,New Customer,Sofia Lehmann,Support Plan,2025-03-19
+Vita Consulting GmbH - Support Plan (166),Vita Consulting GmbH,Closed Won,17800,2025-04-19,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Support Plan,2025-03-19
+Ost Technik GmbH - Analytics Suite (101),Ost Technik GmbH,Closed Won,54300,2025-05-18,Trade Show,New Customer,Jonas Richter,Analytics Suite,2025-03-20
+Nord Solutions GmbH - Support Plan (032),Nord Solutions GmbH,Closed Lost,14300,2025-06-25,Trade Show,New Customer,Lea Hartmann,Support Plan,2025-03-22
+Nord Digital GmbH - Cloud Hosting (132),Nord Digital GmbH,Closed Lost,105200,2025-04-01,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-03-25
+Süd Group GmbH - Support Plan (074),Süd Group GmbH,Closed Lost,17900,2025-05-21,LinkedIn,New Customer,Jonas Richter,Support Plan,2025-04-03
+Elbe Werke GmbH - Support Plan (121),Elbe Werke GmbH,Closed Won,6300,2025-06-18,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Support Plan,2025-04-04
+Nord Digital GmbH - Analytics Suite (168),Nord Digital GmbH,Closed Won,101400,2025-06-16,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2025-04-08
+Aurum Handel GmbH - Cloud Hosting (094),Aurum Handel GmbH,Closed Won,21400,2025-06-03,Web,New Customer,Lea Hartmann,Cloud Hosting,2025-04-11
+Optima Digital GmbH - Support Plan (142),Optima Digital GmbH,Closed Won,6800,2025-06-26,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2025-04-14
+Rhein Handel GmbH - Analytics Suite (105),Rhein Handel GmbH,Closed Lost,65600,2025-05-26,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2025-04-18
+Zenit Logistik GmbH - Analytics Suite (098),Zenit Logistik GmbH,Closed Lost,32700,2025-05-13,Partner Referral,New Customer,Jonas Richter,Analytics Suite,2025-04-23
+Brevo Services GmbH - Cloud Hosting (046),Brevo Services GmbH,Closed Lost,22200,2025-07-01,LinkedIn,New Customer,Jonas Richter,Cloud Hosting,2025-04-24
+Corvus Solutions GmbH - Support Plan (040),Corvus Solutions GmbH,Closed Lost,10400,2025-06-27,LinkedIn,New Customer,Sofia Lehmann,Support Plan,2025-04-27
+Elbe Werke GmbH - Training (169),Elbe Werke GmbH,Closed Won,3000,2025-09-20,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Training,2025-04-29
+Alpha Group GmbH - Cloud Hosting (054),Alpha Group GmbH,Closed Lost,8500,2025-06-23,Trade Show,New Customer,Tim Vogel,Cloud Hosting,2025-04-30
+Delta Handel GmbH - Support Plan (180),Delta Handel GmbH,Closed Won,5000,2025-05-21,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2025-05-08
+Main Digital GmbH - Training (029),Main Digital GmbH,Closed Won,3300,2025-06-20,Partner Referral,New Customer,Jonas Richter,Training,2025-05-12
+Elbe Systems GmbH - Cloud Hosting (153),Elbe Systems GmbH,Closed Won,21000,2025-06-17,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-05-15
+Vita Handel GmbH - Training (009),Vita Handel GmbH,Closed Lost,5000,2025-07-11,Phone Inquiry,New Customer,Jonas Richter,Training,2025-05-16
+Linea Handel GmbH - Cloud Hosting (069),Linea Handel GmbH,Closed Lost,14100,2025-06-22,LinkedIn,New Customer,Anna Keller,Cloud Hosting,2025-05-17
+Optima Digital GmbH - Cloud Hosting (181),Optima Digital GmbH,Closed Won,35700,2025-05-28,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Cloud Hosting,2025-05-18
+Nova Digital GmbH - Cloud Hosting (117),Nova Digital GmbH,Closed Won,33300,2025-09-22,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-05-23
+Prima Technik GmbH - Training (033),Prima Technik GmbH,Closed Won,5700,2025-06-20,Partner Referral,New Customer,Tim Vogel,Training,2025-06-01
+Main Consulting GmbH - Cloud Hosting (104),Main Consulting GmbH,Closed Lost,19100,2025-07-25,LinkedIn,New Customer,Jonas Richter,Cloud Hosting,2025-06-15
+Prima Consulting GmbH - Cloud Hosting (138),Prima Consulting GmbH,Closed Won,17100,2025-08-07,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Cloud Hosting,2025-06-16
+Beta Systems GmbH - Analytics Suite (178),Beta Systems GmbH,Closed Lost,27500,2025-09-15,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2025-06-21
+Nord Group GmbH - Analytics Suite (165),Nord Group GmbH,Closed Won,104200,2025-07-04,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2025-06-22
+Beta Digital GmbH - Training (078),Beta Digital GmbH,Closed Lost,8200,2025-08-04,Partner Referral,New Customer,Markus Brandt,Training,2025-06-25
+Vita Handel GmbH - Analytics Suite (143),Vita Handel GmbH,Closed Lost,27100,2025-07-15,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2025-06-29
+Beta Werke GmbH - Analytics Suite (053),Beta Werke GmbH,Closed Lost,22500,2025-09-18,Trade Show,New Customer,Sofia Lehmann,Analytics Suite,2025-06-30
+Alpha Systems GmbH - Analytics Suite (129),Alpha Systems GmbH,Closed Won,93500,2025-07-21,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2025-07-01
+Helio Logistik GmbH - Cloud Hosting (019),Helio Logistik GmbH,Closed Lost,31400,2025-10-04,Email Campaign,New Customer,Jonas Richter,Cloud Hosting,2025-07-05
+Nova Solutions GmbH - Cloud Hosting (149),Nova Solutions GmbH,Closed Won,24300,2025-07-23,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Cloud Hosting,2025-07-07
+Optima Services GmbH - Analytics Suite (124),Optima Services GmbH,Closed Won,28400,2025-09-16,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2025-07-12
+Nova Solutions GmbH - Cloud Hosting (122),Nova Solutions GmbH,Closed Lost,46900,2025-09-22,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Cloud Hosting,2025-07-13
+Rhein Digital GmbH - Training (026),Rhein Digital GmbH,Closed Lost,4000,2025-12-26,Email Campaign,New Customer,Anna Keller,Training,2025-07-18
+Nova Services GmbH - Cloud Hosting (130),Nova Services GmbH,Closed Lost,15700,2025-08-25,Existing Customer,Existing Customer - Upgrade,Lea Hartmann,Cloud Hosting,2025-07-19
+Delta Solutions GmbH - Support Plan (050),Delta Solutions GmbH,Closed Lost,17500,2025-09-15,Email Campaign,New Customer,Anna Keller,Support Plan,2025-07-21
+Delta Solutions GmbH - Analytics Suite (135),Delta Solutions GmbH,Closed Won,46900,2025-08-28,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2025-07-25
+Main Consulting GmbH - Support Plan (162),Main Consulting GmbH,Closed Won,3700,2025-09-22,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Support Plan,2025-07-26
+Linea Digital GmbH - Cloud Hosting (034),Linea Digital GmbH,Closed Won,105400,2025-09-20,Trade Show,New Customer,Sofia Lehmann,Cloud Hosting,2025-07-27
+Optima Digital GmbH - Cloud Hosting (144),Optima Digital GmbH,Closed Lost,21700,2025-09-02,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-07-27
+Beta Digital GmbH - Cloud Hosting (030),Beta Digital GmbH,Closed Lost,25200,2025-10-17,Trade Show,New Customer,Markus Brandt,Cloud Hosting,2025-08-05
+Prima Consulting GmbH - Cloud Hosting (175),Prima Consulting GmbH,Closed Won,6900,2025-09-16,Existing Customer,Existing Customer - Upgrade,Lea Hartmann,Cloud Hosting,2025-08-07
+Optima Services GmbH - Cloud Hosting (016),Optima Services GmbH,Closed Won,11700,2025-10-12,LinkedIn,New Customer,Sofia Lehmann,Cloud Hosting,2025-08-11
+Beta Systems GmbH - Cloud Hosting (017),Beta Systems GmbH,Closed Lost,25800,2025-11-14,Trade Show,New Customer,Anna Keller,Cloud Hosting,2025-08-23
+Beta Systems GmbH - Support Plan (115),Beta Systems GmbH,Closed Lost,6500,2025-10-08,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Support Plan,2025-08-27
+Terra Consulting GmbH - Analytics Suite (155),Terra Consulting GmbH,Closed Won,34100,2025-09-12,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2025-08-27
+Beta Systems GmbH - Cloud Hosting (068),Beta Systems GmbH,Closed Won,35200,2025-09-17,Partner Referral,New Customer,Tim Vogel,Cloud Hosting,2025-08-29
+Nova Digital GmbH - Analytics Suite (061),Nova Digital GmbH,Closed Won,24700,2025-12-28,LinkedIn,New Customer,Tim Vogel,Analytics Suite,2025-08-31
+Delta Solutions GmbH - Cloud Hosting (172),Delta Solutions GmbH,Closed Lost,40400,2025-12-23,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-08-31
+Terra Solutions GmbH - Analytics Suite (110),Terra Solutions GmbH,Closed Won,75300,2025-09-25,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2025-09-02
+Nova Digital GmbH - Cloud Hosting (136),Nova Digital GmbH,Closed Won,22400,2025-10-12,Existing Customer,Existing Customer - Upgrade,Anna Keller,Cloud Hosting,2025-09-04
+Vita Handel GmbH - Cloud Hosting (066),Vita Handel GmbH,Closed Won,17900,2025-12-16,LinkedIn,New Customer,Sofia Lehmann,Cloud Hosting,2025-09-06
+Corvus Solutions GmbH - Cloud Hosting (176),Corvus Solutions GmbH,Closed Lost,20500,2025-10-18,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Cloud Hosting,2025-09-08
+Alpha Werke GmbH - Analytics Suite (080),Alpha Werke GmbH,Closed Won,25600,2025-10-26,LinkedIn,New Customer,Markus Brandt,Analytics Suite,2025-09-09
+Delta Digital GmbH - Cloud Hosting (192),Delta Digital GmbH,Closed Won,31000,2025-12-15,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Cloud Hosting,2025-09-10
+Zenit Consulting GmbH - Cloud Hosting (071),Zenit Consulting GmbH,Closed Lost,45300,2025-11-11,LinkedIn,New Customer,Jonas Richter,Cloud Hosting,2025-09-15
+Orion Logistik GmbH - Analytics Suite (100),Orion Logistik GmbH,Closed Won,16000,2025-11-14,LinkedIn,New Customer,Lea Hartmann,Analytics Suite,2025-09-20
+Optima Services GmbH - Cloud Hosting (057),Optima Services GmbH,Closed Lost,16800,2025-11-06,LinkedIn,New Customer,Jonas Richter,Cloud Hosting,2025-09-23
+Linea Services GmbH - Support Plan (111),Linea Services GmbH,Closed Won,5100,2025-12-25,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2025-09-28
+Alpha Consulting GmbH - Analytics Suite (116),Alpha Consulting GmbH,Closed Won,43500,2025-12-27,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2025-09-30
+Zenit Services GmbH - Analytics Suite (188),Zenit Services GmbH,Closed Won,21200,2025-11-13,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2025-10-03
+Corvus Digital GmbH - Support Plan (049),Corvus Digital GmbH,Closed Won,9400,2025-12-11,Web,New Customer,Anna Keller,Support Plan,2025-10-04
+Beta Werke GmbH - Analytics Suite (062),Beta Werke GmbH,Closed Lost,12600,2025-11-24,Web,New Customer,Jonas Richter,Analytics Suite,2025-10-08
+Corvus Consulting GmbH - Cloud Hosting (001),Corvus Consulting GmbH,Closed Lost,44500,2025-10-20,LinkedIn,New Customer,Markus Brandt,Cloud Hosting,2025-10-13
+Linea Services GmbH - Cloud Hosting (045),Linea Services GmbH,Closed Lost,16800,2025-12-05,Phone Inquiry,New Customer,Anna Keller,Cloud Hosting,2025-10-19
+Linea Consulting GmbH - Analytics Suite (003),Linea Consulting GmbH,Closed Lost,32500,2026-01-05,Email Campaign,New Customer,Anna Keller,Analytics Suite,2025-10-20
+Elbe Systems GmbH - Analytics Suite (183),Elbe Systems GmbH,Closed Won,37500,2025-12-19,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2025-10-25
+Corvus Consulting GmbH - Analytics Suite (099),Corvus Consulting GmbH,Closed Won,64200,2026-01-17,Email Campaign,New Customer,Lea Hartmann,Analytics Suite,2025-11-02
+Terra Consulting GmbH - Cloud Hosting (012),Terra Consulting GmbH,Closed Lost,27500,2026-01-06,Partner Referral,New Customer,Tim Vogel,Cloud Hosting,2025-11-06
+Corvus Services GmbH - Training (065),Corvus Services GmbH,Closed Lost,6900,2026-01-16,Web,New Customer,Anna Keller,Training,2025-11-06
+Rhein Handel GmbH - Training (020),Rhein Handel GmbH,Closed Won,8600,2025-12-21,Trade Show,New Customer,Jonas Richter,Training,2025-11-13
+Alpha Systems GmbH - Support Plan (013),Alpha Systems GmbH,Closed Lost,8700,2026-01-25,Email Campaign,New Customer,Tim Vogel,Support Plan,2025-11-16
+Linea Services GmbH - Analytics Suite (159),Linea Services GmbH,Closed Won,31900,2025-12-16,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2025-11-21
+Aurum Handel GmbH - Analytics Suite (103),Aurum Handel GmbH,Closed Lost,28200,2026-03-23,Phone Inquiry,New Customer,Lea Hartmann,Analytics Suite,2025-11-24
+Terra Solutions GmbH - Cloud Hosting (147),Terra Solutions GmbH,Closed Lost,34700,2025-12-23,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Cloud Hosting,2025-11-29
+Vita Handel GmbH - Analytics Suite (171),Vita Handel GmbH,Closed Won,29700,2025-12-25,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2025-11-29
+Linea Digital GmbH - Cloud Hosting (014),Linea Digital GmbH,Closed Won,35700,2026-02-02,Partner Referral,New Customer,Jonas Richter,Cloud Hosting,2025-12-05
+Süd Services GmbH - Cloud Hosting (102),Süd Services GmbH,Closed Won,8000,2026-01-05,Partner Referral,New Customer,Anna Keller,Cloud Hosting,2025-12-05
+Main Group GmbH - Analytics Suite (097),Main Group GmbH,Closed Won,30300,2025-12-24,Partner Referral,New Customer,Anna Keller,Analytics Suite,2025-12-06
+Nova Technik GmbH - Cloud Hosting (177),Nova Technik GmbH,Closed Won,16900,2025-12-27,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Cloud Hosting,2025-12-07
+Aurum Handel GmbH - Training (051),Aurum Handel GmbH,Closed Lost,3700,2026-02-16,Email Campaign,New Customer,Lea Hartmann,Training,2025-12-08
+Atlas Digital GmbH - Training (158),Atlas Digital GmbH,Closed Won,9200,2026-01-13,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Training,2025-12-14
+Corvus Consulting GmbH - Training (048),Corvus Consulting GmbH,Closed Lost,6300,2026-03-15,Trade Show,New Customer,Lea Hartmann,Training,2025-12-15
+Nord Group GmbH - Cloud Hosting (131),Nord Group GmbH,Closed Won,57200,2026-01-01,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2025-12-19
+Corvus Digital GmbH - Analytics Suite (090),Corvus Digital GmbH,Closed Lost,53100,2026-02-13,Partner Referral,New Customer,Anna Keller,Analytics Suite,2025-12-23
+Prima Solutions GmbH - Cloud Hosting (077),Prima Solutions GmbH,Closed Lost,25000,2026-03-16,Web,New Customer,Tim Vogel,Cloud Hosting,2025-12-31
+Linea Solutions GmbH - Support Plan (173),Linea Solutions GmbH,Closed Won,8400,2026-02-03,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2026-01-01
+Delta Digital GmbH - Training (123),Delta Digital GmbH,Closed Lost,4400,2026-01-14,Existing Customer,Existing Customer - Upgrade,Lea Hartmann,Training,2026-01-02
+Nova Digital GmbH - Cloud Hosting (170),Nova Digital GmbH,Closed Won,16800,2026-02-24,Existing Customer,Existing Customer - Upgrade,Anna Keller,Cloud Hosting,2026-01-03
+Main Consulting GmbH - Analytics Suite (114),Main Consulting GmbH,Closed Won,15100,2026-03-15,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2026-01-12
+Vita Solutions GmbH - Support Plan (002),Vita Solutions GmbH,Closed Won,6700,2026-03-15,Partner Referral,New Customer,Tim Vogel,Support Plan,2026-01-19
+Nova Technik GmbH - Cloud Hosting (182),Nova Technik GmbH,Closed Won,23200,2026-02-13,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Cloud Hosting,2026-01-20
+Brevo Systems GmbH - Analytics Suite (139),Brevo Systems GmbH,Closed Lost,35400,2026-02-24,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2026-01-22
+Aurum Group GmbH - Support Plan (042),Aurum Group GmbH,Closed Won,25900,2026-02-20,Partner Referral,New Customer,Markus Brandt,Support Plan,2026-01-24
+Nord Digital GmbH - Analytics Suite (056),Nord Digital GmbH,Closed Won,66900,2026-03-25,Phone Inquiry,New Customer,Tim Vogel,Analytics Suite,2026-01-24
+Rhein Handel GmbH - Analytics Suite (134),Rhein Handel GmbH,Closed Won,67500,2026-03-18,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-02-04
+Prima Technik GmbH - Training (041),Prima Technik GmbH,Closed Won,4400,2026-03-26,Partner Referral,New Customer,Anna Keller,Training,2026-02-06
+Beta Systems GmbH - Support Plan (035),Beta Systems GmbH,Closed Lost,7800,2026-04-26,Trade Show,New Customer,Anna Keller,Support Plan,2026-02-07
+Nord Group GmbH - Cloud Hosting (119),Nord Group GmbH,Closed Lost,46300,2026-03-06,Existing Customer,Existing Customer - Upgrade,Anna Keller,Cloud Hosting,2026-02-14
+Helio Logistik GmbH - Training (156),Helio Logistik GmbH,Closed Won,5500,2026-03-26,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Training,2026-02-18
+Alpha Solutions GmbH - Support Plan (091),Alpha Solutions GmbH,Closed Lost,6000,2026-04-09,Phone Inquiry,New Customer,Anna Keller,Support Plan,2026-02-24
+Atlas Digital GmbH - Support Plan (118),Atlas Digital GmbH,Closed Lost,32200,2026-03-18,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Support Plan,2026-02-26
+Nova Technik GmbH - Cloud Hosting (079),Nova Technik GmbH,Closed Lost,22100,2026-05-19,Trade Show,New Customer,Lea Hartmann,Cloud Hosting,2026-02-28
+Delta Solutions GmbH - Analytics Suite (150),Delta Solutions GmbH,Closed Lost,40300,2026-04-02,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-03-03
+Alpha Consulting GmbH - Support Plan (194),Alpha Consulting GmbH,Closed Won,11400,2026-06-23,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2026-03-08
+Nord Digital GmbH - Analytics Suite (075),Nord Digital GmbH,Closed Lost,62900,2026-06-26,LinkedIn,New Customer,Tim Vogel,Analytics Suite,2026-03-09
+Rhein Handel GmbH - Support Plan (018),Rhein Handel GmbH,Closed Lost,33100,2026-05-22,Web,New Customer,Sofia Lehmann,Support Plan,2026-03-10
+Brevo Systems GmbH - Training (044),Brevo Systems GmbH,Closed Lost,3700,2026-06-20,Phone Inquiry,New Customer,Tim Vogel,Training,2026-03-13
+Corvus Digital GmbH - Cloud Hosting (157),Corvus Digital GmbH,Closed Won,25200,2026-04-16,Existing Customer,Existing Customer - Upgrade,Anna Keller,Cloud Hosting,2026-03-16
+Nord Digital GmbH - Analytics Suite (063),Nord Digital GmbH,Closed Won,115200,2026-05-06,Phone Inquiry,New Customer,Anna Keller,Analytics Suite,2026-03-17
+Corvus Solutions GmbH - Support Plan (027),Corvus Solutions GmbH,Closed Lost,10400,2026-05-05,Partner Referral,New Customer,Jonas Richter,Support Plan,2026-03-25
+Rhein Handel GmbH - Analytics Suite (160),Rhein Handel GmbH,Closed Lost,109000,2026-06-20,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-03-31
+Vita Solutions GmbH - Analytics Suite (140),Vita Solutions GmbH,Closed Lost,42000,2026-06-25,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-04-03
+Alpha Systems GmbH - Analytics Suite (193),Alpha Systems GmbH,Closed Lost,68900,2026-05-03,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-04-03
+Linea Solutions GmbH - Support Plan (127),Linea Solutions GmbH,Closed Lost,5100,2026-06-25,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Support Plan,2026-04-12
+Corvus Digital GmbH - Analytics Suite (174),Corvus Digital GmbH,Closed Won,24200,2026-06-18,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2026-04-20
+Linea Technik GmbH - Analytics Suite (089),Linea Technik GmbH,Closed Won,64200,2026-06-24,Phone Inquiry,New Customer,Anna Keller,Analytics Suite,2026-04-23
+Corvus Solutions GmbH - Training (081),Corvus Solutions GmbH,Closed Lost,7600,2026-06-25,LinkedIn,New Customer,Jonas Richter,Training,2026-05-02
+Corvus Solutions GmbH - Training (025),Corvus Solutions GmbH,Closed Lost,5100,2026-09-24,Email Campaign,New Customer,Jonas Richter,Training,2026-05-05
+Linea Digital GmbH - Training (060),Linea Digital GmbH,Closed Won,9700,2026-06-26,Phone Inquiry,New Customer,Sofia Lehmann,Training,2026-05-07
+Zenit Consulting GmbH - Analytics Suite (148),Zenit Consulting GmbH,Closed Won,69200,2026-06-26,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-05-11
+Zenit Consulting GmbH - Cloud Hosting (179),Zenit Consulting GmbH,Closed Lost,75100,2026-06-23,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Cloud Hosting,2026-05-14
+Elbe Systems GmbH - Support Plan (184),Elbe Systems GmbH,Closed Lost,11400,2026-06-12,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Support Plan,2026-05-14
+Beta Werke GmbH - Analytics Suite (024),Beta Werke GmbH,Closed Lost,15800,2026-07-13,LinkedIn,New Customer,Jonas Richter,Analytics Suite,2026-05-15
+Nova Services GmbH - Analytics Suite (125),Nova Services GmbH,Closed Won,15700,2026-05-27,Existing Customer,Existing Customer - Upgrade,Lea Hartmann,Analytics Suite,2026-05-16
+Corvus Digital GmbH - Analytics Suite (108),Corvus Digital GmbH,Closed Lost,58400,2026-05-26,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2026-05-19
+Zenit Consulting GmbH - Cloud Hosting (073),Zenit Consulting GmbH,Closed Won,40000,2026-06-19,Phone Inquiry,New Customer,Sofia Lehmann,Cloud Hosting,2026-05-21
+Delta Handel GmbH - Support Plan (164),Delta Handel GmbH,Closed Won,15200,2026-06-16,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2026-05-27
+Alpha Group GmbH - Analytics Suite (023),Alpha Group GmbH,Closed Lost,44100,2026-08-08,Web,New Customer,Tim Vogel,Analytics Suite,2026-05-30
+Alpha Systems GmbH - Training (093),Alpha Systems GmbH,Closed Lost,11200,2026-09-18,Email Campaign,New Customer,Tim Vogel,Training,2026-06-02
+Linea Services GmbH - Support Plan (145),Linea Services GmbH,Closed Lost,7600,2026-06-24,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Support Plan,2026-06-04
+Vita Consulting GmbH - Analytics Suite (021),Vita Consulting GmbH,Closed Won,28800,2026-08-12,Trade Show,New Customer,Jonas Richter,Analytics Suite,2026-06-05
+Optima Services GmbH - Cloud Hosting (028),Optima Services GmbH,Closed Lost,17900,2026-07-24,Partner Referral,New Customer,Jonas Richter,Cloud Hosting,2026-06-11
+Nord Solutions GmbH - Cloud Hosting (064),Nord Solutions GmbH,Closed Lost,15400,2026-09-19,Partner Referral,New Customer,Lea Hartmann,Cloud Hosting,2026-06-20
+Alpha Systems GmbH - Support Plan (058),Alpha Systems GmbH,Closed Lost,26300,2026-08-20,Web,New Customer,Anna Keller,Support Plan,2026-06-21
+Ost Systems GmbH - Cloud Hosting (005),Ost Systems GmbH,Closed Won,28400,2026-09-18,Partner Referral,New Customer,Anna Keller,Cloud Hosting,2026-06-25
+West Consulting GmbH - Support Plan (086),West Consulting GmbH,Closed Lost,14200,2026-07-29,Partner Referral,New Customer,Anna Keller,Support Plan,2026-06-25
+Optima Services GmbH - Support Plan (072),Optima Services GmbH,Closed Lost,5000,2026-09-24,Trade Show,New Customer,Jonas Richter,Support Plan,2026-06-28
+Nova Solutions GmbH - Analytics Suite (133),Nova Solutions GmbH,Closed Lost,29000,2026-09-20,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Analytics Suite,2026-07-03
+Terra Consulting GmbH - Cloud Hosting (106),Terra Consulting GmbH,Closed Won,17400,2026-08-07,Existing Customer,Existing Customer - Upgrade,Anna Keller,Cloud Hosting,2026-07-04
+Elbe Werke GmbH - Support Plan (161),Elbe Werke GmbH,Closed Won,10600,2026-09-21,Existing Customer,Existing Customer - Upgrade,Markus Brandt,Support Plan,2026-07-07
+Helio Logistik GmbH - Cloud Hosting (036),Helio Logistik GmbH,Closed Lost,27800,2026-08-28,Partner Referral,New Customer,Jonas Richter,Cloud Hosting,2026-07-13
+Prima Consulting GmbH - Analytics Suite (092),Prima Consulting GmbH,Closed Lost,22800,2026-08-21,Partner Referral,New Customer,Markus Brandt,Analytics Suite,2026-07-15
+West Solutions GmbH - Analytics Suite (096),West Solutions GmbH,Closed Lost,69400,2026-09-01,LinkedIn,New Customer,Lea Hartmann,Analytics Suite,2026-07-17
+West Consulting GmbH - Training (112),West Consulting GmbH,Closed Lost,8200,2026-09-21,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Training,2026-07-17
+Ost Systems GmbH - Analytics Suite (047),Ost Systems GmbH,Closed Won,52800,2026-09-29,Email Campaign,New Customer,Tim Vogel,Analytics Suite,2026-07-19
+Optima Digital GmbH - Cloud Hosting (011),Optima Digital GmbH,Closed Lost,18800,2026-09-17,Web,New Customer,Tim Vogel,Cloud Hosting,2026-07-25
+Linea Technik GmbH - Training (037),Linea Technik GmbH,Closed Lost,25100,2026-09-22,Partner Referral,New Customer,Tim Vogel,Training,2026-08-02
+Main Group GmbH - Cloud Hosting (059),Main Group GmbH,Proposal/Price Quote,23800,2026-12-20,Web,New Customer,Tim Vogel,Cloud Hosting,2026-08-12
+Delta Handel GmbH - Analytics Suite (109),Delta Handel GmbH,Closed Won,17500,2026-09-21,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2026-08-12
+Linea Solutions GmbH - Analytics Suite (146),Linea Solutions GmbH,Closed Won,24100,2026-09-23,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-08-12
+Elbe Handel GmbH - Analytics Suite (190),Elbe Handel GmbH,Closed Won,19700,2026-09-16,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-08-12
+Zenit Services GmbH - Analytics Suite (082),Zenit Services GmbH,Value Proposition,34400,2026-12-19,Email Campaign,New Customer,Anna Keller,Analytics Suite,2026-08-15
+Süd Services GmbH - Analytics Suite (128),Süd Services GmbH,Closed Won,21800,2026-09-23,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-08-15
+Süd Group GmbH - Analytics Suite (052),Süd Group GmbH,Negotiation/Review,39100,2026-12-22,LinkedIn,New Customer,Tim Vogel,Analytics Suite,2026-08-16
+Atlas Digital GmbH - Training (167),Atlas Digital GmbH,Closed Lost,10200,2026-09-18,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Training,2026-08-16
+Vita Solutions GmbH - Training (004),Vita Solutions GmbH,Value Proposition,4100,2026-11-15,Web,New Customer,Anna Keller,Training,2026-08-21
+Linea Handel GmbH - Support Plan (083),Linea Handel GmbH,Needs Analysis,7300,2026-12-20,Web,New Customer,Tim Vogel,Support Plan,2026-08-26
+Delta Digital GmbH - Support Plan (076),Delta Digital GmbH,Closed Won,10700,2026-10-21,Phone Inquiry,New Customer,Markus Brandt,Support Plan,2026-08-29
+Linea Services GmbH - Cloud Hosting (196),Linea Services GmbH,Value Proposition,14400,2026-11-26,Trade Show,New Customer,Anna Keller,Cloud Hosting,2026-09-06
+Süd Group GmbH - Analytics Suite (210),Süd Group GmbH,Value Proposition,62300,2027-02-06,LinkedIn,New Customer,Anna Keller,Analytics Suite,2026-09-06
+Nord Digital GmbH - Analytics Suite (152),Nord Digital GmbH,Closed Won,108800,2026-10-12,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Analytics Suite,2026-09-09
+Terra Consulting GmbH - Cloud Hosting (198),Terra Consulting GmbH,Negotiation/Review,32200,2026-12-07,LinkedIn,New Customer,Anna Keller,Cloud Hosting,2026-09-09
+Corvus Services GmbH - Training (195),Corvus Services GmbH,Proposal/Price Quote,3900,2027-02-16,Phone Inquiry,New Customer,Tim Vogel,Training,2026-09-12
+Delta Digital GmbH - Training (213),Delta Digital GmbH,Negotiation/Review,4100,2026-11-30,Existing Customer,Existing Customer - Upgrade,Lea Hartmann,Training,2026-09-13
+Linea Handel GmbH - Support Plan (209),Linea Handel GmbH,Needs Analysis,8700,2026-12-22,Partner Referral,New Customer,Anna Keller,Support Plan,2026-09-14
+Corvus Solutions GmbH - Support Plan (214),Corvus Solutions GmbH,Proposal/Price Quote,9500,2027-01-11,Email Campaign,New Customer,Sofia Lehmann,Support Plan,2026-09-14
+Terra Solutions GmbH - Analytics Suite (219),Terra Solutions GmbH,Value Proposition,47100,2026-12-03,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-09-14
+Nova Solutions GmbH - Analytics Suite (067),Nova Solutions GmbH,Closed Won,28800,2026-10-29,Partner Referral,New Customer,Anna Keller,Analytics Suite,2026-09-15
+Nova Solutions GmbH - Analytics Suite (095),Nova Solutions GmbH,Value Proposition,19300,2026-12-24,Partner Referral,New Customer,Anna Keller,Analytics Suite,2026-09-17
+Ost Technik GmbH - Support Plan (085),Ost Technik GmbH,Needs Analysis,8900,2026-11-23,Trade Show,New Customer,Jonas Richter,Support Plan,2026-09-19
+Brevo Systems GmbH - Training (205),Brevo Systems GmbH,Value Proposition,4500,2026-11-16,Email Campaign,New Customer,Tim Vogel,Training,2026-09-19
+Nova Technik GmbH - Training (211),Nova Technik GmbH,Needs Analysis,5400,2026-12-14,Trade Show,New Customer,Lea Hartmann,Training,2026-09-23
+Zenit Consulting GmbH - Analytics Suite (228),Zenit Consulting GmbH,Qualification,143400,2026-12-20,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-09-24
+Elbe Werke GmbH - Analytics Suite (087),Elbe Werke GmbH,Needs Analysis,28400,2026-12-10,LinkedIn,New Customer,Lea Hartmann,Analytics Suite,2026-09-26
+Elbe Digital GmbH - Cloud Hosting (220),Elbe Digital GmbH,Negotiation/Review,27100,2027-01-17,Trade Show,New Customer,Jonas Richter,Cloud Hosting,2026-09-26
+Nord Solutions GmbH - Training (222),Nord Solutions GmbH,Value Proposition,6000,2026-12-04,Partner Referral,New Customer,Markus Brandt,Training,2026-10-01
+Linea Consulting GmbH - Support Plan (197),Linea Consulting GmbH,Value Proposition,6100,2027-02-16,Partner Referral,New Customer,Tim Vogel,Support Plan,2026-10-03
+Prima Technik GmbH - Analytics Suite (227),Prima Technik GmbH,Negotiation/Review,33200,2026-12-09,Web,New Customer,Anna Keller,Analytics Suite,2026-10-04
+Prima Solutions GmbH - Support Plan (031),Prima Solutions GmbH,Needs Analysis,6100,2026-12-12,Trade Show,New Customer,Anna Keller,Support Plan,2026-10-05
+Rhein Solutions GmbH - Analytics Suite (206),Rhein Solutions GmbH,Proposal/Price Quote,55700,2026-12-15,Partner Referral,New Customer,Markus Brandt,Analytics Suite,2026-10-05
+Ost Group GmbH - Support Plan (216),Ost Group GmbH,Value Proposition,5100,2027-02-24,Email Campaign,New Customer,Jonas Richter,Support Plan,2026-10-05
+Nord Digital GmbH - Training (185),Nord Digital GmbH,Needs Analysis,10900,2026-12-27,Existing Customer,Existing Customer - Upgrade,Anna Keller,Training,2026-10-06
+West Handel GmbH - Analytics Suite (208),West Handel GmbH,Qualification,21600,2027-02-14,LinkedIn,New Customer,Sofia Lehmann,Analytics Suite,2026-10-06
+Nord Group GmbH - Analytics Suite (055),Nord Group GmbH,Needs Analysis,101000,2026-12-25,Partner Referral,New Customer,Tim Vogel,Analytics Suite,2026-10-07
+Zenit Logistik GmbH - Analytics Suite (225),Zenit Logistik GmbH,Negotiation/Review,42200,2026-12-25,LinkedIn,New Customer,Jonas Richter,Analytics Suite,2026-10-11
+Delta Solutions GmbH - Support Plan (088),Delta Solutions GmbH,Value Proposition,22600,2027-01-02,Web,New Customer,Anna Keller,Support Plan,2026-10-12
+Vita Consulting GmbH - Support Plan (186),Vita Consulting GmbH,Proposal/Price Quote,10300,2026-11-21,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Support Plan,2026-10-12
+West Consulting GmbH - Support Plan (229),West Consulting GmbH,Proposal/Price Quote,10300,2027-01-15,Trade Show,New Customer,Anna Keller,Support Plan,2026-10-12
+Alpha Group GmbH - Support Plan (202),Alpha Group GmbH,Value Proposition,8700,2026-12-30,LinkedIn,New Customer,Anna Keller,Support Plan,2026-10-15
+Rhein Technik GmbH - Training (038),Rhein Technik GmbH,Negotiation/Review,3300,2026-12-07,LinkedIn,New Customer,Jonas Richter,Training,2026-10-16
+Prima Consulting GmbH - Cloud Hosting (224),Prima Consulting GmbH,Proposal/Price Quote,20300,2026-12-09,Trade Show,New Customer,Lea Hartmann,Cloud Hosting,2026-10-16
+Brevo Systems GmbH - Support Plan (215),Brevo Systems GmbH,Qualification,7900,2027-02-17,Existing Customer,Existing Customer - Upgrade,Anna Keller,Support Plan,2026-10-17
+Süd Group GmbH - Training (217),Süd Group GmbH,Needs Analysis,9400,2026-11-20,LinkedIn,New Customer,Jonas Richter,Training,2026-10-17
+Ost Technik GmbH - Analytics Suite (218),Ost Technik GmbH,Needs Analysis,44000,2027-01-18,Existing Customer,Existing Customer - Upgrade,Sofia Lehmann,Analytics Suite,2026-10-17
+Vita Consulting GmbH - Training (221),Vita Consulting GmbH,Value Proposition,3700,2026-12-10,Web,New Customer,Sofia Lehmann,Training,2026-10-18
+Vita Solutions GmbH - Support Plan (010),Vita Solutions GmbH,Proposal/Price Quote,7800,2026-12-27,Phone Inquiry,New Customer,Tim Vogel,Support Plan,2026-10-19
+Delta Handel GmbH - Support Plan (199),Delta Handel GmbH,Needs Analysis,8900,2027-01-26,Web,New Customer,Anna Keller,Support Plan,2026-10-19
+Rhein Digital GmbH - Training (200),Rhein Digital GmbH,Qualification,2100,2026-11-21,LinkedIn,New Customer,Anna Keller,Training,2026-10-19
+Rhein Systems GmbH - Support Plan (207),Rhein Systems GmbH,Value Proposition,9300,2027-01-01,Existing Customer,Existing Customer - Upgrade,Jonas Richter,Support Plan,2026-10-19
+Linea Solutions GmbH - Analytics Suite (141),Linea Solutions GmbH,Qualification,28700,2026-11-23,Existing Customer,Existing Customer - Upgrade,Anna Keller,Analytics Suite,2026-10-23
+Prima Consulting GmbH - Analytics Suite (022),Prima Consulting GmbH,Proposal/Price Quote,25100,2026-12-10,Web,New Customer,Markus Brandt,Analytics Suite,2026-10-24
+Elbe Digital GmbH - Analytics Suite (226),Elbe Digital GmbH,Negotiation/Review,23600,2027-01-22,Web,New Customer,Anna Keller,Analytics Suite,2026-10-24
+Brevo Systems GmbH - Cloud Hosting (113),Brevo Systems GmbH,Proposal/Price Quote,19300,2026-12-06,Existing Customer,Existing Customer - Upgrade,Tim Vogel,Cloud Hosting,2026-10-28
+Linea Solutions GmbH - Cloud Hosting (203),Linea Solutions GmbH,Needs Analysis,28500,2026-12-06,Trade Show,New Customer,Anna Keller,Cloud Hosting,2026-10-28
+Delta Solutions GmbH - Cloud Hosting (204),Delta Solutions GmbH,Qualification,16400,2027-01-10,Phone Inquiry,New Customer,Jonas Richter,Cloud Hosting,2026-10-28
+Beta Systems GmbH - Support Plan (223),Beta Systems GmbH,Value Proposition,6400,2026-12-06,LinkedIn,New Customer,Anna Keller,Support Plan,2026-10-29
+Ost Systems GmbH - Analytics Suite (008),Ost Systems GmbH,Proposal/Price Quote,75900,2026-12-22,LinkedIn,New Customer,Tim Vogel,Analytics Suite,2026-11-01
+Rhein Handel GmbH - Cloud Hosting (201),Rhein Handel GmbH,Qualification,48200,2026-12-05,LinkedIn,New Customer,Sofia Lehmann,Cloud Hosting,2026-11-01
+Rhein Solutions GmbH - Training (212),Rhein Solutions GmbH,Value Proposition,5300,2027-01-15,Web,New Customer,Markus Brandt,Training,2026-11-02
+Corvus Digital GmbH - Analytics Suite (007),Corvus Digital GmbH,Proposal/Price Quote,38000,2026-12-25,Partner Referral,New Customer,Anna Keller,Analytics Suite,2026-11-03

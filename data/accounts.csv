@@ -1,0 +1,71 @@
+Account_Code,Name,Industry,BillingCity,BillingCountry,Region__c,NumberOfEmployees,AnnualRevenue,Type
+ACC-001,Ost Technik GmbH,Construction,Essen,Germany,West,529,80348000,Customer - Direct
+ACC-002,Atlas Digital GmbH,Education,Cologne,Germany,West,2058,297093000,Customer - Direct
+ACC-003,Linea Services GmbH,Manufacturing,Berlin,Germany,Ost,20,2943000,Customer - Direct
+ACC-004,Brevo Services GmbH,Retail,Stuttgart,Germany,Süd,88,13956000,Channel Partner / Reseller
+ACC-005,Rhein Digital GmbH,Manufacturing,Stuttgart,Germany,Süd,21,2680000,Prospect
+ACC-006,Alpha Group GmbH,Healthcare,Leipzig,Germany,Ost,22,2690000,Prospect
+ACC-007,Linea Digital GmbH,Technology,Düsseldorf,Germany,West,1693,241269000,Customer - Direct
+ACC-008,Main Consulting GmbH,Technology,Essen,Germany,West,113,17939000,Customer - Direct
+ACC-009,Nord Group GmbH,Manufacturing,Berlin,Germany,Ost,1703,237272000,Customer - Direct
+ACC-010,Ost Group GmbH,Hospitality,Cologne,Germany,West,214,31987000,Prospect
+ACC-011,Corvus Services GmbH,Construction,Stuttgart,Germany,Süd,271,42959000,Prospect
+ACC-012,Rhein Handel GmbH,Finance,Essen,Germany,West,2117,309807000,Customer - Direct
+ACC-013,Delta Handel GmbH,Transportation,Leipzig,Germany,Ost,16,2108000,Customer - Direct
+ACC-014,Zenit Services GmbH,Technology,Dresden,Germany,Ost,45,5660000,Customer - Direct
+ACC-015,Elbe Digital GmbH,Retail,Stuttgart,Germany,Süd,22,3391000,Prospect
+ACC-016,Corvus Digital GmbH,Retail,Leipzig,Germany,Ost,292,34982000,Customer - Direct
+ACC-017,West Handel GmbH,Finance,Düsseldorf,Germany,West,83,9859000,Customer - Direct
+ACC-018,Nord Solutions GmbH,Hospitality,Hamburg,Germany,Nord,258,24720000,Customer - Direct
+ACC-019,Nova Solutions GmbH,Construction,Munich,Germany,Süd,22,3009000,Customer - Direct
+ACC-020,Alpha Systems GmbH,Finance,Dresden,Germany,Ost,1033,161659000,Customer - Direct
+ACC-021,Helio Logistik GmbH,Manufacturing,Essen,Germany,West,49,6461000,Customer - Direct
+ACC-022,Terra Solutions GmbH,Manufacturing,Cologne,Germany,West,864,125080000,Customer - Direct
+ACC-023,Zenit Consulting GmbH,Energy,Cologne,Germany,West,1718,199838000,Channel Partner / Reseller
+ACC-024,Rhein Solutions GmbH,Healthcare,Hamburg,Germany,Nord,1877,270039000,Prospect
+ACC-025,Vita Handel GmbH,Technology,Düsseldorf,Germany,West,116,14228000,Customer - Direct
+ACC-026,Beta Logistik GmbH,Transportation,Munich,Germany,Süd,441,53853000,Prospect
+ACC-027,Corvus Solutions GmbH,Transportation,Essen,Germany,West,203,20733000,Customer - Direct
+ACC-028,Süd Services GmbH,Transportation,Stuttgart,Germany,Süd,49,4480000,Customer - Direct
+ACC-029,Delta Digital GmbH,Retail,Bremen,Germany,Nord,53,5782000,Customer - Direct
+ACC-030,West Consulting GmbH,Retail,Leipzig,Germany,Ost,46,5742000,Customer - Direct
+ACC-031,Elbe Handel GmbH,Technology,Düsseldorf,Germany,West,46,4526000,Customer - Direct
+ACC-032,Prima Solutions GmbH,Manufacturing,Berlin,Germany,Ost,40,4871000,Prospect
+ACC-033,Orion Logistik GmbH,Healthcare,Hamburg,Germany,Nord,113,15605000,Customer - Direct
+ACC-034,Delta Solutions GmbH,Finance,Munich,Germany,Süd,912,128745000,Customer - Direct
+ACC-035,Linea Handel GmbH,Energy,Stuttgart,Germany,Süd,426,41215000,Customer - Direct
+ACC-036,Ost Systems GmbH,Transportation,Dresden,Germany,Ost,1120,109135000,Prospect
+ACC-037,Linea Solutions GmbH,Retail,Leipzig,Germany,Ost,86,7823000,Customer - Direct
+ACC-038,Prima Consulting GmbH,Manufacturing,Hamburg,Germany,Nord,16,1577000,Customer - Direct
+ACC-039,Linea Technik GmbH,Transportation,Dresden,Germany,Ost,1964,274950000,Prospect
+ACC-040,Rhein Technik GmbH,Technology,Munich,Germany,Süd,51,7003000,Prospect
+ACC-041,Optima Digital GmbH,Construction,Stuttgart,Germany,Süd,95,10919000,Customer - Direct
+ACC-042,Elbe Systems GmbH,Finance,Leipzig,Germany,Ost,932,134059000,Channel Partner / Reseller
+ACC-043,Terra Consulting GmbH,Technology,Dresden,Germany,Ost,580,66104000,Customer - Direct
+ACC-044,Helio Solutions GmbH,Manufacturing,Bremen,Germany,Nord,424,53670000,Customer - Direct
+ACC-045,Aurum Handel GmbH,Healthcare,Hamburg,Germany,Nord,257,30040000,Prospect
+ACC-046,Elbe Werke GmbH,Transportation,Bremen,Germany,Nord,50,7771000,Customer - Direct
+ACC-047,Alpha Werke GmbH,Technology,Hamburg,Germany,Nord,18,1952000,Prospect
+ACC-048,Aurum Group GmbH,Manufacturing,Hannover,Germany,Nord,1743,262546000,Customer - Direct
+ACC-049,Prima Technik GmbH,Retail,Stuttgart,Germany,Süd,550,74827000,Prospect
+ACC-050,Nova Services GmbH,Education,Hamburg,Germany,Nord,53,8210000,Channel Partner / Reseller
+ACC-051,Nova Digital GmbH,Healthcare,Leipzig,Germany,Ost,114,13924000,Customer - Direct
+ACC-052,Main Group GmbH,Healthcare,Leipzig,Germany,Ost,43,5329000,Prospect
+ACC-053,Corvus Consulting GmbH,Retail,Hamburg,Germany,Nord,869,111467000,Prospect
+ACC-054,Nord Digital GmbH,Transportation,Berlin,Germany,Ost,2278,296331000,Channel Partner / Reseller
+ACC-055,Zenit Logistik GmbH,Finance,Essen,Germany,West,16,1813000,Prospect
+ACC-056,Süd Group GmbH,Hospitality,Stuttgart,Germany,Süd,1751,193783000,Prospect
+ACC-057,Alpha Consulting GmbH,Education,Berlin,Germany,Ost,1051,142247000,Channel Partner / Reseller
+ACC-058,Beta Digital GmbH,Manufacturing,Hamburg,Germany,Nord,46,4231000,Prospect
+ACC-059,Brevo Systems GmbH,Retail,Dresden,Germany,Ost,18,1814000,Customer - Direct
+ACC-060,Alpha Solutions GmbH,Education,Dresden,Germany,Ost,210,19975000,Prospect
+ACC-061,Optima Services GmbH,Retail,Düsseldorf,Germany,West,20,2302000,Customer - Direct
+ACC-062,West Solutions GmbH,Retail,Hannover,Germany,Nord,1995,284747000,Prospect
+ACC-063,Vita Consulting GmbH,Hospitality,Essen,Germany,West,466,65551000,Customer - Direct
+ACC-064,Beta Werke GmbH,Hospitality,Düsseldorf,Germany,West,57,8157000,Prospect
+ACC-065,Linea Consulting GmbH,Technology,Berlin,Germany,Ost,48,6793000,Customer - Direct
+ACC-066,Vita Solutions GmbH,Technology,Dresden,Germany,Ost,113,11319000,Customer - Direct
+ACC-067,Nova Technik GmbH,Retail,Bremen,Germany,Nord,554,72134000,Customer - Direct
+ACC-068,Rhein Systems GmbH,Healthcare,Essen,Germany,West,931,89981000,Customer - Direct
+ACC-069,Main Digital GmbH,Transportation,Essen,Germany,West,48,4521000,Prospect
+ACC-070,Beta Systems GmbH,Manufacturing,Leipzig,Germany,Ost,540,70484000,Customer - Direct
